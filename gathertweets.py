@@ -1,5 +1,5 @@
 from socketserver import DatagramRequestHandler
-from tweepy.streaming import Stream
+from tweepy.streaming import StreamListener
 from tweepy import API
 from tweepy import OAuthHandler
 from tweepy import Stream
@@ -15,7 +15,7 @@ authorToken = 'AAAAAAAAAAAAAAAAAAAAAKyEbQEAAAAAQbbiw8R1BPFE4UQJulLMBORvaOk%3D4x9
 authorSecret = 'iOquhAanqYPWWfhMYoX9qN5ECq96hGULsaaxe8bD3wWw4'
 
 
-class StdOutListener(Stream) :
+class StdOutListener(StreamListener) :
     def on_data(self, data) :
         try:
             #writing data to file
@@ -43,19 +43,19 @@ def search_brand(brand, tweet):
 
 
 def main() :
-    twitter_stream = StdOutListener(consumerKey, consumerSecret, authorToken, authorSecret)
-    # auth = OAuthHandler(consumerKey, consumerSecret)
-    # auth.set_access_token(authorToken, authorSecret)
-    # twitterStream = Stream(auth, l)
-    # api = API(auth, wait_on_rate_limit=True)
+    l = StdOutListener()
+    auth = OAuthHandler(consumerKey, consumerSecret)
+    auth.set_access_token(authorToken, authorSecret)
+    twitterStream = Stream(auth, l)
+    api = API(auth, wait_on_rate_limit=True)
 
-    twitter_stream.filter(track=['iPhone', 'Apple', 'Android', 'Galaxy', 'Samsung', 'Pixel', 'LG', 'Huawei', 'Motorola', 'Nexus', 'Nokia', 'Sony', 'BlackBerry', 'iOS', 'Siri', 'Safari'])
+    twitterStream.filter(track=['iPhone', 'Apple', 'Android', 'Galaxy', 'Samsung', 'Pixel', 'LG', 'Huawei', 'Motorola', 'Nexus', 'Nokia', 'Sony', 'BlackBerry', 'iOS', 'Siri', 'Safari'])
 
     tweetsDataPath = 'tweetDBphones.csv'
     tweetsData = []
     tweetsFile = open(tweetsDataPath, "r")
 
-    for line in tweetsFile.readlines():
+    for line in tweetsFile:
         try:
             tweet = json.loads(line)
             tweetsData.append(tweet)
