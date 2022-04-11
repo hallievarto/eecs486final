@@ -1,5 +1,4 @@
 from socketserver import DatagramRequestHandler
-from tweepy.streaming import StreamListener
 from tweepy import API
 from tweepy import OAuthHandler
 from tweepy import Stream
