@@ -18,7 +18,7 @@ client = tw.Client(bearer_token=bearer,
                     return_type = dict,
                     wait_on_rate_limit=True)
 
-search_query = 'Safari'
+search_query = 'Apple'
 
 tweets = client.search_recent_tweets(query=search_query, end_time=None, expansions=None, max_results=100, media_fields=None, next_token=None, place_fields='country', poll_fields=None, since_id=None, sort_order=None, start_time=None, tweet_fields='source', until_id=None, user_fields=None, user_auth=False)
 
@@ -27,7 +27,7 @@ for tweet in tweets['data']:
     tweets_copy.append(tweet)
 pprint.pprint(tweets_copy)
 
-with open('Safari.txt', 'wt') as out:
+with open('Apple.txt', 'wt') as out:
     pprint.pprint(tweets_copy, stream=out)
 
 

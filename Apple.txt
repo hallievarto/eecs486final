@@ -1,536 +1,15 @@
-[{'id': '1513962349878775815',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+[{'id': '1513973228699799553',
+  'source': 'Sleep Meister Lite',
+  'text': '2022年4月13日\n'
+          '寝る っぽいな\n'
           '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962348192710677',
-  'source': 'Twitter for Android',
-  'text': 'RT @CNNBrBusiness: A Pegatron de Taiwan, que monta iPhones para a '
-          'Apple, informou nesta terça-feira (12) que suspendeu as operações '
-          'em suas…'},
- {'id': '1513962347777339392',
+          '時刻 5:01 入眠潜時 0時間05分59秒\n'
+          '#SleepMeister https://t.co/OP1BBqCcUr'},
+ {'id': '1513973227567075339',
   'source': 'Twitter for iPhone',
-  'text': '\u2066@POTUS\u2069  This Is the War’s Decisive Moment - The '
-          'Atlantic #DefeatPutin  https://t.co/TlIUI4vVgz'},
- {'id': '1513962345780887560',
-  'source': 'Twitter Web App',
-  'text': "@beccanalia Do you have an example of what it is you're sideloading "
-          'for work?\n'
-          '\n'
-          'I avoid loading anything from outside Google Playstore on my '
-          'Android devices and even that comes with more risks than Apple.'},
- {'id': '1513962345046888451',
+  'text': 'https://t.co/G7MWrRDMT0'},
+ {'id': '1513973227474796556',
   'source': 'Twitter for iPhone',
-  'text': 'RT @thebereanmillen: Allie articulates this idea super well in this '
-          'episode 👇🏼\n'
-          '\n'
-          'https://t.co/QQ9atMXXkm'},
- {'id': '1513962344098971653',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962343855796227',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @aoafffe: هديتك. جوال📱اوقيمته500ريال Apple \n'
-          '\n'
-          'تابع@FyHddna\n'
-          '\n'
-          '•السحب من الرتويت إلكتروني موثق🎥 https://t.co/FOAPdMFUDb'},
- {'id': '1513962343369170946',
-  'source': 'Twitter for iPhone',
-  'text': 'Tonight at 7cst I’m going to stream BINGO from my phone! I’m going '
-          'to show people how I make extra money in my free time when I’m not '
-          'playing poker! It’s a lot of fun and There will be giveaways so '
-          'make sure you join me this evening! https://t.co/d0lx05CpKb '
-          'https://t.co/PkbZfbleDR'},
- {'id': '1513962342626693121',
-  'source': 'Twitter for Android',
-  'text': 'RT @BushDoc44: @wallrad @margmopp Plus the other fatal error of not '
-          'k owing the 0.1 RBA cash rate (same rate since 2020).\n'
-          '\n'
-          '“Gums” Gallagher…'},
- {'id': '1513962342408667146',
-  'source': 'TrendingRetriever',
-  'text': 'Apple aggiornerà l’app Salute in vista dei nuovi Apple Watch? '
-          'https://t.co/hsr6bkKjRY'},
- {'id': '1513962341829853190',
-  'source': 'TrendingRetriever',
-  'text': 'Visore AR di Apple più vicino ma non prima del 2023: i primi '
-          'dettagli dentro iOS 16 alla Wwdc 2022 https://t.co/tJ7NoENIUc'},
- {'id': '1513962341523771400',
-  'source': 'Twitter for Android',
-  'text': 'RT @BolsonaroSP: O GETTR é uma rede social que respeita a liberdade '
-          'de expressão, não faz shadowban e nem deleta seus posts.\n'
-          '\n'
-          'Minha conta l…'},
- {'id': '1513962341100052489',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @ad544289: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
-          '\n'
-          '• تابعني وتابع @alnbyl3\n'
-          '• تابعني وتابع @Mg__noor\n'
-          '• رتويت وأكتب تم 🔄💫\n'
-          '\n'
-          '. السحب من الرتويت…'},
- {'id': '1513962340638728195',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @Cdiscount: 🎁 #Concours\n'
-          '\n'
-          "C'est la semaine du reconditionné sur Cdiscount ➡ "
-          'https://t.co/d9jcXLMKnS\n'
-          'On vous offre une Apple Watch Series…'},
- {'id': '1513962340550684678',
-  'source': 'Twitter Web App',
-  'text': 'RT @WilliamFaix: I do find it lowkey annoying that Apple, if all '
-          'companies, shipped this.\n'
-          'What’s up with this corner?!?! https://t.co/fpYvM…'},
- {'id': '1513962340525703168',
-  'source': 'Twitter Web App',
-  'text': 'RT @BinemonNft: Apple (AMB) Token is audited by @SolidProof_io\n'
-          '\n'
-          '📃Contract: 0x95977A9DaA14A00258f89a14F75B6E35d5B730d4\n'
-          '\n'
-          '🔐Report: https://t.c…'},
- {'id': '1513962339837612032',
-  'source': 'Twitter for Android',
-  'text': 'RT @KorinnaHennig: Sonderfolge! Lang ersehnt und  XXL: '
-          '\u2066@BekeSchulmann\u2069 hat mit Christiana Franke (Neurologie) '
-          'und Carmen Scheibenbogen übe…'},
- {'id': '1513962339342893059',
-  'source': 'Twitter for iPad',
-  'text': 'https://t.co/4yzWtEvyNr'},
- {'id': '1513962339246215181',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/4OamAmKi1J'},
- {'id': '1513962333613305859',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @CCOOSanidadCant: 📱Coge tu móvil, entra en la store y descarga '
-          'ya tu APP para el sector sanitario y sociosanitario\n'
-          '\n'
-          '1️⃣ Android https://…'},
- {'id': '1513962333571325968',
-  'source': 'Twitter Web App',
-  'text': 'ICYMI: Join Green Century on Tue. April 19th for a webinar on '
-          'current trends in shareholder advocacy. Learn about our recent '
-          'successes with companies like @Apple, @CocaColaCo, and @jpmorgan.\n'
-          '\n'
-          'Register here:\n'
-          'https://t.co/jW8lQNv4Uc\n'
-          '\n'
-          '#GreenCentury #ChangeForOurFuture'},
- {'id': '1513962331893555202',
-  'source': 'Twitter for iPhone',
-  'text': "RT @matthewstoller: 1. Here's Apple CEO Tim Cook today arguing that "
-          'antitrust laws against big tech are bad for privacy and bad for '
-          'nationa…'},
- {'id': '1513962330790498311',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/fAyzjWpFwQ'},
- {'id': '1513962330375208963',
-  'source': 'Twitter for iPhone',
-  'text': 'I will be everything you need me to be… only if you believe in '
-          'fairly tales  https://t.co/vQ3scnGfTv'},
- {'id': '1513962329750319107',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/GHs5uEGLZS'},
- {'id': '1513962328496422913',
-  'source': 'Twitter for iPad',
-  'text': 'https://t.co/cvxR3ecWxo'},
- {'id': '1513962327481196558',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على Apple MacBook Pro او قيمته 10,000﷼💰🖥 '
-          'لمتابعيني فقط \n'
-          '\n'
-          'المثبته 📌 \n'
-          '\n'
-          'السحب بعد ساعتين 🤩🔥 \n'
-          '\n'
-          'شاركوا وبالتوفيق للجميع يارب…'},
- {'id': '1513962326742999051',
-  'source': 'Twitter for iPhone',
-  'text': '@divaonflick @DOfDuchess YOUR CASH APP, APPLE PAY, ZELLE,VENMO OR '
-          'PAYPAL AND GET SPOIL ASAP🥰'},
- {'id': '1513962325669203985',
-  'source': 'Twitter for iPhone',
-  'text': 'SOMETHING ‘BOUT UUUUU!! \n'
-          'MAKES ME FEEL LIKE A DANGEROUS WOMAAAAAN!!\n'
-          'SOMETHING ‘BOUT UUUUU\n'
-          'MAKES ME WANNA DO THINGS THAT I SHOULD’NNNNT '
-          'https://t.co/MZaLmXZdwb'},
- {'id': '1513962325283581952',
-  'source': 'Twitter for iPhone',
-  'text': '@nftsunni @aikovirtual @hvyeth @eth_apple @OdysseyAlpha '
-          '@shoyoyo1208 @Tatake0109 @khng0168'},
- {'id': '1513962324964507649',
-  'source': 'Twitter for iPhone',
-  'text': '@METAPCs Apple just because I find it easier to use 🤷\u200d♂️🤣 even '
-          'tho there really isn’t a difference lol'},
- {'id': '1513962324817809412',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962324557660161',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @BayCounsel: The #NBAPlayin begins TODAY - who do we have have '
-          "winning? Listen in  and see who's advancing today:\n"
-          '\n'
-          'https://t.co/plE0LApW…'},
- {'id': '1513962323899080708',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @bariweiss: In which @JonHaidt argues that social media is '
-          'making us unfit for democracy:  https://t.co/6SFfCoPpoR'},
- {'id': '1513962323647811584',
-  'source': 'Twitter for iPhone',
-  'text': 'Fancy Giveaways for you! Get the app and check out our free daily '
-          'giveaways  https://t.co/wSnCdha7eO'},
- {'id': '1513962323546972171',
-  'source': 'Twitter Web App',
-  'text': 'Baritone - Spring - Single - https://t.co/JG1IDZXU6t #iTunes'},
- {'id': '1513962323307905036',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962320137011204',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @ironfroggy: None of what Tim Apple is saying here is remotely '
-          'true. Allowing side loading has absolutely nothing to do with '
-          'disabling s…'},
- {'id': '1513962318635450377',
-  'source': 'Twitter for iPhone',
-  'text': "Olympian's mother killed by stray bullet while sewing in "
-          'Connecticut home - NBC News https://t.co/e1yKuLhC31'},
- {'id': '1513962315175051272',
-  'source': 'Twitter Web App',
-  'text': '@guardian app Bost makes it easy and safe for local users to '
-          'connect with each other. Download for free at Apple '
-          'https://t.co/uChWynVbJG &amp; Google https://t.co/Nvi0yitq3f '
-          'https://t.co/9udUTbGP6k'},
- {'id': '1513962313329434630',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/gEO5iOK273'},
- {'id': '1513962312918573060',
-  'source': 'Twitter for Android',
-  'text': 'RT @iionlyA7: || 3000﷼ || آيفون 13 Apple iPhone📱 \n'
-          '\n'
-          'بدون شروط ، لمتابعيني فقط 😍🔥..\n'
-          '• السحب إلكتروني من الريتويت \n'
-          '\n'
-          'بالتوفيق🎁💜 https://t.co/ND…'},
- {'id': '1513962312331407381',
-  'source': 'Twitter for iPhone',
-  'text': 'T-Mobile Secretly Bought Its Customer Data from Hackers to Stop '
-          'Leak. #security #cyber https://t.co/gCrRPUPMWa'},
- {'id': '1513962312020938753',
-  'source': 'Twitter for Android',
-  'text': 'RT @Arijj2010: || آيفون 13 Apple iPhone📱\n'
-          'رتويت وتابع @2021abdulrahman \n'
-          '\n'
-          '•السحب الكتروني م الرتويت والمتابعة 📹\n'
-          'بالتوفيق للجميع🤲🏻 https://t.c…'},
- {'id': '1513962311987384325',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @reachthepodcast: REACH has a lot of very special listeners just '
-          'as passionate about space as we are. \n'
-          '\n'
-          'One that stands out is @AstroRya…'},
- {'id': '1513962311341547528',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962309378449409',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @cabellostats: .@Camila_Cabello’s “Familia” remains at #1 on '
-          'Apple Music Worldwide chart for a 5th day.'},
- {'id': '1513962309324050435',
-  'source': 'Twitter Web App',
-  'text': 'So the #Tankies debacle has been figured out! It was a bad apple '
-          'mod that was giving roles to other people in the chat to FUD and '
-          'allowed these people to post images in the chat when others could '
-          "not. Also wouldn't delete the FUD. Needless to say the discord is "
-          'vibing again. https://t.co/waAEctkvur'},
- {'id': '1513962308506112013',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @jhsrry: Guys please go stream on apple music.'},
- {'id': '1513962307931590660',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/xREnXJoxKi'},
- {'id': '1513962307650568192',
-  'source': 'Revive Social App',
-  'text': '#Samsung Galaxy A52 is receiving Android 12-based One UI 4.1 update '
-          'https://t.co/GizbhPxi2h #news #tech #technology #apple #xiaomi '
-          '#google'},
- {'id': '1513962307592032256',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @nftsunni: 🤍💜 Aiko Virtual X Sunni 🤍🌸\n'
-          '\n'
-          'Very happy to be giving away 3 WL for @aikovirtual, be virtual '
-          '☆⁎⁺˳✧\n'
-          '\n'
-          'How to enter:\n'
-          '\n'
-          '- Follow: @n…'},
- {'id': '1513962306887196673',
-  'source': 'Twitter Web App',
-  'text': 'RT @77rn551: || 3000﷼ || ايفون 13 Apple Phone\n'
-          '\n'
-          'فقط تابع @almutafaweq1\n'
-          'ورتويت للمثبته بحسابه 📌\n'
-          '\n'
-          'السحب إلكتروني من الرتويت ، بالتوفيق لكم ❤️…'},
- {'id': '1513962306618626048',
-  'source': 'Twitter for iPad',
-  'text': '\u2066@SquigglyRick\u2069 explains the devastating impact of the '
-          'LNPs AAT stack. 😓 https://t.co/9HOdH2eJC5'},
- {'id': '1513962303070244864',
-  'source': 'Twitter for iPhone',
-  'text': '@tinyeirin how do you cook risotto is it like just rice and apple '
-          'juice'},
- {'id': '1513962302956924928',
-  'source': 'Twitter for iPhone',
-  'text': '💛💛 https://t.co/EwTEfJV8p2'},
- {'id': '1513962298091708425',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962296896212992',
-  'source': 'AnalysingWithR',
-  'text': '$AAPL fucking apple 😃'},
- {'id': '1513962295663251460',
-  'source': 'Twitter for Android',
-  'text': 'RT @wli60__: سحب على جوال📱من شركة Apple     \n'
-          '\n'
-          'كل اللي عليك تسويه : \n'
-          '\n'
-          '- تابع @albal201\n'
-          '- رتويت للتغريدة  \n'
-          '\n'
-          'السحب الكتروني ومُوثق بالفيديو طب…'},
- {'id': '1513962294719696896',
-  'source': 'Twitter for Android',
-  'text': "@shay_ney27 @bitlife_ideas_ As long as it's under your email "
-          "account on Google Play you won't lose it it depends on if you "
-          'switch from Android to Apple or Apple to Android then you might '
-          'lose it if you switch emails but if you keep the same email under'},
- {'id': '1513962294249721856',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962293389930499',
-  'source': 'Twitter for iPhone',
-  'text': 'And I think he’s everything  https://t.co/hSjmZkNixV'},
- {'id': '1513962293251518469',
-  'source': 'Twitter for Android',
-  'text': 'RT @Yara__099: ايفون 13 Apple iPhone الجديد📱 \n'
-          '\n'
-          '• تابع @Ahlam_829  \n'
-          '• رتويت للتغريده \n'
-          '\n'
-          'السحب الكتروني موثق بالفيديوُ 🎥 https://t.co/YZ5OMS3Z…'},
- {'id': '1513962292655833089',
-  'source': 'Twitter Web App',
-  'text': 'RT @mindfulness_for: @95star How to set #boundaries and say no - '
-          'with kindness! Mindfulness for Beginners ep140, listen &amp; #RT!\n'
-          '\n'
-          'https://t.c…'},
- {'id': '1513962291569598465',
-  'source': 'Twitter for Android',
-  'text': 'RT @ny_ocho: Green Apple🍏 https://t.co/hyhvRP99r4'},
- {'id': '1513962291192020998',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962287945637891',
-  'source': 'Twitter for iPhone',
-  'text': '@GoatJJ_ https://t.co/PoObBceKS1'},
- {'id': '1513962285781430283',
-  'source': 'Twitter for iPhone',
-  'text': 'Apple 🍎 tree 🌳 @iris_sun_art #irisunart #art #artistic #artist '
-          '#arte #artsy #arts #painting #paintings #galleryart #onlinegallery '
-          '#fineart #newartist #artisofinstagram #risingartist #artcollector '
-          '#artcollectors #paintingoftheday #onlinegallery #artgallery '
-          'https://t.co/Vx5mke72P3'},
- {'id': '1513962285424947212',
-  'source': 'Twitter for iPad',
-  'text': 'Thank you Mr Sunak, for showing us your true colours - The '
-          'Independent, a crook has been in charge of our treasury, we must '
-          'have a league investigations on everything this bunch of thieves '
-          'have been involved with.  https://t.co/xMo1L7P7nT'},
- {'id': '1513962285408342016',
-  'source': 'Twitter for iPhone',
-  'text': 'ทำทำไม https://t.co/XGLNir5OjT'},
- {'id': '1513962284665786369',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962284007276558',
-  'source': 'Twitter Web App',
-  'text': "RT @matthewstoller: 1. Here's Apple CEO Tim Cook today arguing that "
-          'antitrust laws against big tech are bad for privacy and bad for '
-          'nationa…'},
- {'id': '1513962281641689096',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @5SSS___: || 3000﷼ || ايفون 13 Apple Phone \n'
-          '\n'
-          'بدون شروط فقط تابعني+ رتويت واكتب تم\n'
-          '\n'
-          'السحب من الرتويت والمتابعه وبعد الوصول الي الف رتويت…'},
- {'id': '1513962280546881560',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962280542691334',
-  'source': 'Twitter for Android',
-  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
-          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
-          '\n'
-          'تابع @AlbuqmiFaisal  \n'
-          'تابع  @khalid_ahmed_o  \n'
-          'تابع  @e_alkofi…'},
- {'id': '1513962280383389697',
-  'source': 'Twitter Web App',
-  'text': 'RT @mindfulness_for: @95star How to set #boundaries and say no - '
-          'with kindness! Mindfulness for Beginners ep140, listen &amp; #RT!\n'
-          '\n'
-          'https://t.c…'},
- {'id': '1513962279598972930',
-  'source': 'Twitter Web App',
-  'text': '📌 Estas son las tácticas de Apple para que sus series tengan '
-          'éxito... https://t.co/lxQB6EAPe9'},
- {'id': '1513962279225679872',
-  'source': 'Twitter Web App',
-  'text': '@MargueritePerle @VOLKRING @JanWillens @realthoree @cuby @litbeep '
-          '@linusgsebastian @opera I am going insane. I can feel it.\n'
-          '\n'
-          'Apple is actively using one of the most expensive marketing teams '
-          'and tactics to make sure they make it as easy as possible for you '
-          'to waive that right. You don’t feel uncomfortable with that in '
-          'anyway?'},
- {'id': '1513962278386872324',
-  'source': 'Twitter for Android',
-  'text': 'RT @iThauy: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
-          '\n'
-          '.تابع @iThauy\n'
-          'رتويت للمثبته بحسابه 👆\n'
-          'السحب المثبته 🔄❤️ https://t.co/inAABNMrOC'},
- {'id': '1513962276553846784',
-  'source': 'Twitter Web App',
-  'text': 'To hear @Mayfield4MultCo discuss Portland’s livability crisis, '
-          'download the interview:\n'
-          '\n'
-          'https://t.co/VPFmZL3tmz https://t.co/RrrJkfcdjv'},
- {'id': '1513962275476017154',
-  'source': 'Twitter for iPhone',
-  'text': '@appltrack @iupdate I’ve Been begging for low power mode for Apple '
-          'Watch'},
- {'id': '1513962275245334536',
-  'source': 'Twitter Web App',
-  'text': 'RT @bts_bighit: ✨✨✨ #MAP_OF_THE_SOUL_PERSONA out now on '
-          '@applemusic: https://t.co/WhZeTBVaa5 https://t.co/9t83F8K3qE'},
- {'id': '1513962275241086978',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @loyalwazz: @Aniyaa_Mariee https://t.co/K9Lyj56KqB check this '
-          'mixtape out it’s 🔥'},
- {'id': '1513962275060822017',
-  'source': 'Twitter for iPhone',
-  'text': 'https://t.co/EQL2aSWxCX'},
- {'id': '1513962275044052997',
-  'source': 'Twitter for Android',
-  'text': 'RT @jjauthor: Multiple people shot at New York subway station - CBS '
-          'News https://t.co/apEENYpWQi'},
- {'id': '1513962272938463245',
-  'source': 'Twitter Web App',
-  'text': 'Dirty South Radio TV Network LIVE On APPLE TV\n'
-          'Now  ( Search - Dirty South Radio TV Network  ) \n'
-          'On Your APPLE TV BOX https://t.co/zXdDmVQIsP'},
- {'id': '1513962272695402496',
-  'source': 'twittbot.net',
-  'text': 'ﾜﾀｸｼﾉﾌﾟﾛﾃﾞｭｰｽ音源ﾃﾞｽ  https://t.co/4pLf7grE0H #applemusic #iTunes '
-          '#music'},
- {'id': '1513962272485519368',
-  'source': 'Twitter for iPhone',
-  'text': 'يالله كمييييية الراحة و انا اسمع أفنان 😔🤍🤍🤍🤍 .. \n'
-          '#كنبة_السبت \n'
-          '\n'
-          'https://t.co/S2zphVWONf'},
- {'id': '1513962271625646091',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @APPS_RH: تحديث \n'
-          'للايفون\n'
-          'تطبيق سورة\n'
-          'القران الكريم بأصوات العديد من القراء\n'
-          '\n'
-          'https://t.co/CZwXfbyBEY https://t.co/FycNAh8C5h'},
- {'id': '1513962270921003009',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @reachthepodcast: REACH has a lot of very special listeners just '
-          'as passionate about space as we are. \n'
-          '\n'
-          'One that stands out is @AstroRya…'},
- {'id': '1513962270900076547',
-  'source': 'Twitter Web App',
-  'text': 'RT @Keerulanah: Ndindi Nyoro , Kimani Ichungwa , Rigathi Gachagua '
-          'are Individuals who have shown and said They CANNOT Apple Polish  '
-          'Uhuru K…'},
- {'id': '1513962269012549639',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @iionlyA7: || 3000﷼ || آيفون 13 Apple iPhone📱 \n'
-          '\n'
-          'بدون شروط ، لمتابعيني فقط 😍🔥..\n'
-          '• السحب إلكتروني من الريتويت \n'
-          '\n'
-          'بالتوفيق🎁💜 https://t.co/ND…'},
- {'id': '1513962268882518022',
-  'source': 'Twitter for Android',
-  'text': 'RT @iThauy: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
-          '\n'
-          '.تابع @iThauy\n'
-          'رتويت للمثبته بحسابه 👆\n'
-          'السحب المثبته 🔄❤️ https://t.co/inAABNMrOC'},
- {'id': '1513962268643442699',
-  'source': 'WordPress.com',
-  'text': 'Here’s a first look at Apple TV+ workplace comedy ‘Loot’ starring '
-          'Maya\xa0Rudolph https://t.co/UzJqPhSatY'},
- {'id': '1513962265761955850',
-  'source': 'Twitter for Android',
   'text': 'RT @dy35603373: || 3000﷼ || ايفون 13 Apple iPhone📱 لمتابعيني فقط !\n'
           '\n'
           '• تابعني \n'
@@ -538,30 +17,597 @@
           '\n'
           'السحب من الرتويت والمتابعه موثق \n'
           'بالتوفيق ل…'},
- {'id': '1513962265493528588',
+ {'id': '1513973226866679810',
+  'source': 'Twitter for iPhone',
+  'text': 'I forgot about this 🔥  https://t.co/isZS11NaiG'},
+ {'id': '1513973225935368195',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @wastedheart_: ทวิตหมอที่เล่าว่คนไข้มาตรวจ พบว่าใจสั่น เลยซื้อ '
+          'apple watch มาใส่ พอสั่นอีกจน watch จับได้เลยรีบมาหาหมอ '
+          'หมอวินิจฉัยและช่ว…'},
+ {'id': '1513973225700880384',
+  'source': 'Sleep Meister Lite',
+  'text': '2022年4月13日\n'
+          '入眠( ˘ω˘ ) #寝ろきゅー\n'
+          '時刻 5:00(3時間19分)\n'
+          '#SleepMeister https://t.co/yxEPmyCFcG'},
+ {'id': '1513973221929926665',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973221485391896',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Podsoada: "هل من المعقول أن يناصب الإنسان نفسه العداء ؟ "\n'
+          'حلقة | جمال مُنتزع. \n'
+          'بصوت | لمياء. \n'
+          'تدقيق | خالد الخضيري\n'
+          'من كتاب | حكايات نفس…'},
+ {'id': '1513973221187633159',
+  'source': 'Twitter for iPhone',
+  'text': '@lilannievert @CashApp Inbox me me with your cashapp Apple Pay '
+          'PayPal venmo Zelle and get spoil instantly ❤️❤️'},
+ {'id': '1513973220935880704',
+  'source': 'Twitter for iPhone',
+  'text': '@GenTXer I had #DrDresBeatsHeadphones.\n'
+          '\n'
+          'They fell apart after about 8 months, tho not #Frm abuse.\n'
+          '🎧\n'
+          'The Ice Bridge\n'
+          '@yesofficial\n'
+          'Those that have lived before\n'
+          'They breathe &amp; walk through us\n'
+          'A course relayed round our sacred fires\n'
+          'That light up/hillsides\n'
+          'https://t.co/wEzpOTeQn6\n'
+          '#CoffeePot24 https://t.co/NHkRE6x3rj'},
+ {'id': '1513973220411596809',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973218448900096',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/w7IFOOK4M9'},
+ {'id': '1513973216112390144',
+  'source': 'Twitter for iPad',
+  'text': 'RT @Billbrowder: Russian spy chief ‘thrown in jail’ as Vladimir '
+          'Putin ‘turns on security officials’. Looks like a full scale '
+          'Stalinesque pu…'},
+ {'id': '1513973215688892416',
+  'source': 'Twitter for Android',
+  'text': 'RT @Yara__099: ايفون 13 Apple iPhone الجديد📱 \n'
+          '\n'
+          '• تابع @Ahlam_829  \n'
+          '• رتويت للتغريده \n'
+          '\n'
+          'السحب الكتروني موثق بالفيديوُ 🎥 https://t.co/YZ5OMS3Z…'},
+ {'id': '1513973213906231304',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Nick_F_Perrelli: I’ve been having a BLAST playing this and I’m '
+          'early yeeehaw \n'
+          '\n'
+          'https://t.co/JZCMVTS0dy'},
+ {'id': '1513973213549801488',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @tt22880: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوص…'},
+ {'id': '1513973213453332482',
+  'source': 'Twitter Web App',
+  'text': '#RivalConsoles\nhttps://t.co/c9B60fhVeP'},
+ {'id': '1513973212375359489',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @tt22880: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوص…'},
+ {'id': '1513973210571804684',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @tt22880: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوص…'},
+ {'id': '1513973208743133185',
+  'source': 'Twitter for Android',
+  'text': 'RT @mmmlllkkkh: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          '\n'
+          '•تابعني وتابع @alhnwfff\n'
+          '• رتويت وأكتب تم 🔄💫\n'
+          '\n'
+          '. السحب من الرتويت والمتابعه الكتروني 🔄❤️…'},
+ {'id': '1513973208520830989',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @tt22880: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوص…'},
+ {'id': '1513973207744847874',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت للتغريده المثبثة https://t.co/uAvOQ0AueG'},
+ {'id': '1513973204100030475',
+  'source': 'Twitter for iPhone',
+  'text': "RT @Tochi_jr: It's available on Spotify and Apple Music "
+          'https://t.co/xJWbxe2zws'},
+ {'id': '1513973203936288770',
+  'source': 'Twitter for Android',
+  'text': '@apple_9258 My most fave dance moment of Kim Taehyung '
+          '😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍'},
+ {'id': '1513973203374276610',
+  'source': 'Twitter Web App',
+  'text': '@voltagekamado imma have to agree with you, apple is mid at best'},
+ {'id': '1513973201734361105',
+  'source': 'Twitter for Android',
+  'text': 'RT @tt22880: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوص…'},
+ {'id': '1513973201172316176',
+  'source': 'Twitter Web App',
+  'text': 'RT @culafia: My latest on @SearchSecurity:\n'
+          '\n'
+          "I checked in with researchers to see if Apple's bug bounty program "
+          'has improved since I last co…'},
+ {'id': '1513973200513908736',
+  'source': 'Twitter for iPhone',
+  'text': '✨✝️🔮 https://t.co/lZiN9oUwnv'},
+ {'id': '1513973198576140295',
+  'source': 'Twitter for Android',
+  'text': 'RT @77rn551: || 3000﷼ || ايفون 13 Apple Phone\n'
+          '\n'
+          'فقط تابع @almutafaweq1\n'
+          'ورتويت للمثبته بحسابه 📌\n'
+          '\n'
+          'السحب إلكتروني من الرتويت ، بالتوفيق لكم ❤️…'},
+ {'id': '1513973198576041990',
+  'source': 'Twitter for iPad',
+  'text': '@Jennileviosa @artezaofficial @Procreate @ProcreateEDU '
+          '@familyofgamerz @Apple @applemintey Thank you!! 🥰'},
+ {'id': '1513973197577797633',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة https://t.co/MLIrfaJ1xs'},
+ {'id': '1513973197217042432',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @wastedheart_: ทวิตหมอที่เล่าว่คนไข้มาตรวจ พบว่าใจสั่น เลยซื้อ '
+          'apple watch มาใส่ พอสั่นอีกจน watch จับได้เลยรีบมาหาหมอ '
+          'หมอวินิจฉัยและช่ว…'},
+ {'id': '1513973196973740033',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @wastedheart_: ทวิตหมอที่เล่าว่คนไข้มาตรวจ พบว่าใจสั่น เลยซื้อ '
+          'apple watch มาใส่ พอสั่นอีกจน watch จับได้เลยรีบมาหาหมอ '
+          'หมอวินิจฉัยและช่ว…'},
+ {'id': '1513973196701433856',
+  'source': 'twittbot.net',
+  'text': 'もっとかっこ良くなりたいけど、筋トレが長続きしない紳士の方必見「ねんしょう！」 '
+          '開発者ブログ:https://t.co/Yr1IdryiXH 無料版:https://t.co/uhZoXOCJvH '
+          'フル版:https://t.co/R7xqnMpiep\u3000#ねんしょう #腹筋 #アプリ'},
+ {'id': '1513973196009218048',
+  'source': 'Twitter for iPhone',
+  'text': 'escuchando a carly rae jepsen en el metro sintiéndome nostálgico '
+          'pero al mismo tiempo un gay básico https://t.co/hpgJWLhdCy'},
+ {'id': '1513973194155339787',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/MJYkOvn6q1'},
+ {'id': '1513973194025230342',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973191760359434',
+  'source': 'Twitter for iPhone',
+  'text': '🏆  https://t.co/KVkQ0mNea7'},
+ {'id': '1513973189604425734',
+  'source': 'Twitter for Android',
+  'text': 'RT @sossnnn: || 4000﷼ || ايفون 13 Apple iPhone📱 لمتابعيني فقط !🔥\n'
+          '\n'
+          '• تابعني \n'
+          '• رتويت للتغريدات بحسابي 🔄واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه…'},
+ {'id': '1513973187389894660',
+  'source': 'Twitter Web App',
+  'text': "@awesomekling I'd run it in SerenityOS browser in other OSs.\n"
+          'It occurs to me that unlike Wine which has to reimplement an API '
+          'seperately, a Serenity runtime could use the same codebase like the '
+          'old stuff Apple did, or the OS2 Windows support.'},
+ {'id': '1513973185607262213',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973185422712842',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة https://t.co/MLIrfaJ1xs'},
+ {'id': '1513973184034398214',
+  'source': 'Twitter Web App',
+  'text': 'eFootball™ CHAMPION SQUADS\n'
+          'A football card game played with famous real-world players!\n'
+          'Play with friends!\n'
+          '\n'
+          'iOS: https://t.co/ESgWtoaySf\n'
+          'Android: https://t.co/dp7Gniy1EJ'},
+ {'id': '1513973183539462148',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @SSMITHBRASIL: Sam Smith liberou por e-mail o link de pre-save '
+          'de seu novo single. É importante salvar a música assim pra ajudar '
+          'na entr…'},
+ {'id': '1513973182448865284',
+  'source': 'Twitter for Android',
+  'text': 'RT @TREASUREs_chart: 📆 [2022.04.11]\n'
+          '\n'
+          '"DARARI"\n'
+          '\n'
+          '🌍 Worldwide iTunes Song Chart\n'
+          '#82 (+18) || [Peak 29 || 56 Days on Chart]\n'
+          '\n'
+          '🌍 Worldwide Apple…'},
+ {'id': '1513973181790494726',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @CGxLL96: E-RO$E “Sincerely Yourz” EP\n'
+          'https://t.co/EWOowAXmXp https://t.co/GXKtbCbAWz'},
+ {'id': '1513973180544790536',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973179726934016',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/gJoX0u3uxM'},
+ {'id': '1513973177487134720',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @ftftrtfffturf: || 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          '•تابع @al_Buraki1914\n'
+          '•رتويت سريع \n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق…'},
+ {'id': '1513973176929202176',
+  'source': 'Twitter Web App',
+  'text': 'The benefits of apple cider vinegar, according to a dietitian '
+          'https://t.co/ep5uyMhdLp via @SFGate'},
+ {'id': '1513973176765923328',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @hiyopi_ini: Apple Music でCALL119聴いてる〜🍎\n'
+          '\n'
+          '#INI #INI_I @official__INI\n'
+          '#CALL119 / We Are / AMAZE ME / BOMBARDA / DILEMMA / Polaroid / '
+          'Rocke…'},
+ {'id': '1513973175331209217',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VictimOfIllusio: #NowPlaying "Anesthetize" by @PeterHamerProd '
+          '(Porcupine Tree cover song)\n'
+          '#Spotify : https://t.co/lomrbOsMe1\n'
+          '#AppleMusi…'},
+ {'id': '1513973174790246403',
+  'source': 'Twitter for iPhone',
+  'text': '@Deeznutsr34 I tried it didn’t taste well nothing like an apple '
+          '1/10'},
+ {'id': '1513973173431250951',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973173364174857',
+  'source': 'Twitter for iPhone',
+  'text': '@pixxieluvs @Millions @momizme1018 @StevieStacks84 @Dream @pulte '
+          '@CashApp Inbox me me with your cashapp Apple Pay PayPal venmo Zelle '
+          'and get spoil instantly ❤️❤️'},
+ {'id': '1513973172785270794',
+  'source': 'Sprinklr',
+  'text': '@HklHkl10 Great question! We’re here to help! \n'
+          '\n'
+          'The only way that a device can be restored with the apps is through '
+          'a backup. Take a look at this article on how to backup your device: '
+          'https://t.co/1meF5RSdhi \n'
+          '\n'
+          'Here’s how to restore: https://t.co/oQsd1uEmtq'},
+ {'id': '1513973172177182736',
+  'source': 'Twitter for Advertisers.',
+  'text': 'Last chance to find the perfect gift for Mother’s Day. Shop at the '
+          'Apple Store or the Apple Store Online.'},
+ {'id': '1513973171505926145',
+  'source': 'Twitter for Android',
+  'text': "@write_apple riiiigghhttt or sometimes when I'm rereading I think "
+          '"I should make them say this after" and I scroll down a bit and '
+          'they say it and I get confused cuz i just dont remember writing '
+          'that in 💀'},
+ {'id': '1513973171447291912',
+  'source': 'Twitter for Android',
+  'text': 'RT @Giraffaloops: Apple cat and lemon cat 🐱 '
+          'https://t.co/gZrbQ2APvp'},
+ {'id': '1513973171443150858',
+  'source': 'Twitter Web App',
+  'text': 'RT @vote1204: @JP_Jinfanbase @BTS_twt Apple Music\n'
+          '\n'
+          '#방탄소년단진 #진 #Jin #Seokjin @BTS_twt  #Yours_Jin Yours  JIN '
+          'https://t.co/dItEKHLIVk'},
+ {'id': '1513973171292151808',
+  'source': 'Twitter for iPhone',
+  'text': 'forever boy could’ve been kept fr like wtf she talking about '
+          'https://t.co/S5kPNU2ZsY'},
+ {'id': '1513973170889396225',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/ZdlTFmBrFv'},
+ {'id': '1513973170671341574',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973169375260672',
+  'source': 'Twitter for Android',
+  'text': '【eFootball™ ウイコレ CHAMPION SQUADS】\n'
+          '実名選手で遊べるサッカーカードゲームの大本命！\n'
+          '進化し続ける #ウイコレ を一緒に遊ぼう！\n'
+          '\n'
+          'iOS:https://t.co/N5HjEc7MTL\n'
+          'Android:https://t.co/m03IDZoPXF'},
+ {'id': '1513973169069379585',
+  'source': 'Twitter Web App',
+  'text': '🥈【楽天市場ランキング第２位】 #楽天市場 #ランキング #トレンド\n'
+          '\n'
+          '👉👉👉【40000円OFFクーポン配布中】iPhone 13 128GB simフリー 国内正規品 Apple 本体 端末 新品 '
+          '回線セット\n'
+          'https://t.co/Xvag6RMbk0'},
+ {'id': '1513973169023258624',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/PBp1yBAOpd'},
+ {'id': '1513973168070868994',
+  'source': 'Twitter Web App',
+  'text': '@folha Stop direct contact = stop COVID spread! Download free app '
+          'Bost to safely communicate with people around. Download for free at '
+          'Apple https://t.co/uChWynVbJG &amp; Google https://t.co/Nvi0yitq3f '
+          'https://t.co/G7UvYk13uS'},
+ {'id': '1513973167596969991',
+  'source': 'Twitter for Android',
+  'text': '|| 3000﷼ || ايفون 13 Apple iPhone📱 \n'
+          'لمتابعيني فقط !\n'
+          '\n'
+          'تابع @Ahlam_829\n'
+          'رتويت واكتب تم\n'
+          '\n'
+          'السحب من الرتويت والمتابعه موثق وبعد الوصول الي الف رتويت .\n'
+          'بالتوفيق لكم♥️🇸🇦 https://t.co/vIaXbOblSz'},
+ {'id': '1513973167370428419',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973166363844617',
+  'source': 'Twitter Web App',
+  'text': '@procyoncalor Thanks man👍 \n'
+          "My father don't want to raise chicken and turkeys anymore so he "
+          'will give me his animals and i will buy few goats and rabbits, '
+          'apple trees have very good yields in this area but ill have to wait '
+          'at least 5 years for my own'},
+ {'id': '1513973165478793216',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973163910180866',
+  'source': 'Twitter Web App',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973163834675208',
+  'source': 'Twitter for Android',
+  'text': 'RT @walkiriaag: El bolche con apple watch me hizo la semana '
+          'https://t.co/FrQoYJrdcm'},
+ {'id': '1513973162366873600',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @wastedheart_: ทวิตหมอที่เล่าว่คนไข้มาตรวจ พบว่าใจสั่น เลยซื้อ '
+          'apple watch มาใส่ พอสั่นอีกจน watch จับได้เลยรีบมาหาหมอ '
+          'หมอวินิจฉัยและช่ว…'},
+ {'id': '1513973161024540683',
+  'source': 'Twitter for iPhone',
+  'text': '@TheSauceCode Here’s the entire album on Apple Music. '
+          'https://t.co/3ljkHZs9tX'},
+ {'id': '1513973160730841095',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973159556431881',
+  'source': 'Twitter for Android',
+  'text': 'ITunes Canada 🇨🇦\n'
+          '\n'
+          '#6. “Cold Heart (PNAU Remix) ” - Elton John &amp; Dua Lipa\n'
+          'https://t.co/sTBdH1YyZ0'},
+ {'id': '1513973157824184330',
+  'source': 'Twitter Web App',
+  'text': 'RT @xxxyuuuutomoxxx: @JP_Jinfanbase @BTS_twt Apple Music🍎  \n'
+          '\n'
+          'Shazam🌀  \n'
+          '\n'
+          '#방탄소년단진 #진 #Jin #Seokjin @BTS_twt #Yours_Jin Yours JIN '
+          'https://t.co…'},
+ {'id': '1513973157316763655',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/8izsbRYFn3'},
+ {'id': '1513973156205060097',
+  'source': 'Cheap Bots, Done Quick!',
+  'text': 'No stabbing an apple in the halls!'},
+ {'id': '1513973155630526466',
+  'source': 'Twitter for Android',
+  'text': "RT @matthewstoller: 7. Apple's app store is so full of scams and "
+          'garbage, and the firm is so inattentive, that one dude on Twitter - '
+          '@kelef…'},
+ {'id': '1513973155588718593',
+  'source': 'Twitter for iPhone',
+  'text': '@somedrippynigga @CashApp Inbox me me with your cashapp Apple Pay '
+          'PayPal venmo Zelle and get spoil instantly ❤️❤️'},
+ {'id': '1513973155307692039',
+  'source': 'Twitter for iPhone',
+  'text': 'Real Music™️ https://t.co/Gg2gfwILyR'},
+ {'id': '1513973154439471115',
+  'source': 'IFTTT',
+  'text': 'Új hír az apple.hu-n: Report finds third-party apps see global '
+          'success on the App Store https://t.co/x8f0Gfkrdy'},
+ {'id': '1513973154045206528',
+  'source': 'Twitter for iPhone',
+  'text': '🗣MY WHIP COLOR LOOK LIKE RIHANNA  https://t.co/GDuInIqMj5'},
+ {'id': '1513973152023519236',
+  'source': 'Twitter Web App',
+  'text': "RT @nogimmickspod: Don't miss the new episode featuring "
+          '@nick_lindquist! Subscribe on iTunes, Spotify, or wherever you get '
+          'your podcasts. #…'},
+ {'id': '1513973150408663056',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @unusual_whales: Apple, $AAPL, could announce a new $80-90 '
+          'billion stock buyback plan and raise dividend by 5-10%, as per '
+          'Citi.'},
+ {'id': '1513973149397884931',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973149385338885',
+  'source': 'Twitter for Android',
+  'text': 'RT @najah_94: ايفون 13 Apple iPhone \n'
+          '\n'
+          'الشروط \n'
+          '. اقتباس المثبثة\n'
+          '• تابعني\n'
+          '• رتويت ولايك للتغريده المثبثة \n'
+          '•تقييمك لشركة الحداد https://t.co/Y…'},
+ {'id': '1513973148680695820',
+  'source': 'Twitter for iPhone',
+  'text': "RT @msjenNjuicee: Them lil Apple Watch challenges are failing y'all "
+          'and ya bodies look like it. 🤷🏾\u200d♀️'},
+ {'id': '1513973147980206092',
+  'source': 'Twitter for Android',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973147967451136',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Realjordanmahon: This how i Walk 🚶🏽🚶🏾\u200d♂️\n'
+          '\n'
+          'New music out on all platforms.\n'
+          '\n'
+          'https://t.co/bGyPXFTubN\n'
+          '\n'
+          'https://t.co/dAlOQJTsiv\n'
+          '\n'
+          'https://t.…'},
+ {'id': '1513973146868756483',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @UTRUST: Did you know you can buy an @Apple iPhone with crypto? '
+          '💥\n'
+          '\n'
+          'Gaming phones as well?\n'
+          '\n'
+          'Pay with $UTK $EGLD $BTC $ETH $USDC $USDT and…'},
+ {'id': '1513973144729628681',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @braanmhmd: سحب على MacBook من شركه Apple \n'
+          'او قيمته 10,000﷼💰🖥 لفائز واحد \n'
+          '\n'
+          'تابع @AlbuqmiFaisal  \n'
+          'تابع  @khalid_ahmed_o  \n'
+          'تابع  @e_alkofi…'},
+ {'id': '1513973144725630977',
+  'source': 'Twitter for iPhone',
+  'text': '#jlaylist https://t.co/JFMVoBS1tq'},
+ {'id': '1513973144532381696',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/CXSmDaXObz'},
+ {'id': '1513973139986075648',
+  'source': 'Sleep Meister',
+  'text': '2022年4月13日\n'
+          'Taiyaki03R226さんが就床しました。\n'
+          '時刻 5:11 アラーム設定 13:30 - 14:00\n'
+          '#SleepMeister https://t.co/IOvEUHqUh6'},
+ {'id': '1513973138417233923',
+  'source': 'Twitter for iPhone',
+  'text': "'Is my money gone?' $600 million theft shakes a thriving crypto "
+          'community - NBC News https://t.co/YqOOgX6Y4z'},
+ {'id': '1513973138303995908',
+  'source': 'Twitter for iPhone',
+  'text': 'E-RO$E “Sincerely Yourz” EP\n'
+          'https://t.co/EWOowAXmXp https://t.co/GXKtbCbAWz'},
+ {'id': '1513973138132025349',
   'source': 'Twitter for Android',
   'text': 'RT @aqowa11: || آيفون 13 Apple iPhone📱 \n'
           '\n'
           'بدون شروط ، لمتابعيني فقط 😍🔥\n'
           '• السحب إلكتروني من الريتويت والمتابعة\n'
           '\n'
-          'بالتوفيق للجميع يارب 🔥 https:…'},
- {'id': '1513962264680083456',
-  'source': 'Twitter for iPad',
-  'text': 'RT @yusrarts: Happy #portfolioday everyone! \n'
-          '\n'
-          'I’m Yusra, an Indian background + visual development artist for '
-          'cartoons! I’ve worked on some…'},
- {'id': '1513962264537313287',
-  'source': 'Twitter for iPhone',
-  'text': '🙋🏻\u200d♂️Need to make a quick decision? Check out the latest '
-          'podcast and begin making quick and decisive decisions without '
-          'second guessing yourself.  https://t.co/Nfez1kk5lI'},
- {'id': '1513962262603747331',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @jamarj_8: \u2066@Teathetruth\u2069 \u2066@KaleoJacobs\u2069 🔥 '
-          'https://t.co/qHYosfNcQu'},
- {'id': '1513962260317753346',
-  'source': 'Twitter for iPhone',
-  'text': 'RT @Haitian_Dolle: Apple and MacBooks are way too evolved for it to '
-          'have a webcam with camera quality that bad 🥴'}]
+          'بالتوفيق للجميع يارب 🔥 https:…'}]
