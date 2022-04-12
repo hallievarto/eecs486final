@@ -38,7 +38,7 @@ def trainNaiveBayes(fileList, dataset):
                     wordCounts[token]['iphone'] += 1
                 else:
                     if wordCounts[token]['android'] == 0:
-                        fakeWords += 1
+                        androidWords += 1
                     wordCounts[token]['android'] += 1
     total = androidCount + iphoneCount
     classProbabilities = {'iphone': iphoneCount/float(total), 'android':androidCount/float(total)}
