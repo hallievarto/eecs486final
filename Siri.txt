@@ -1,0 +1,465 @@
+[{'id': '1513963254309076994',
+  'source': 'Twitter for Android',
+  'text': 'RT @CoxstoreTz: 🦅HIZI APA CODE ZA SIRI SANA KWENYE SIMU YAKO '
+          'ZITAKUSAIDIA PIA KUJUA KAMA SIMU YAKO NI FAKE\n'
+          '⚡️⚡️⚡️⚡️⚡️\n'
+          '\n'
+          '1.*#61#\n'
+          'Baada ya kup…'},
+ {'id': '1513963238530027521',
+  'source': 'Twitter for Android',
+  'text': 'E Vamsi gadu oka waste gadu \n'
+          'Last season lo siri shannu ni troll chesinapudu e pathivratha '
+          'kaburulu em matladaledhu.\n'
+          'Disgusting fellow \n'
+          '#akhilsarthak \n'
+          '#BiggBossNonStop \n'
+          '#WeAreWithYouAkhil https://t.co/lmgZR2HBRc'},
+ {'id': '1513963227000016900',
+  'source': 'Twitter for iPhone',
+  'text': 'Siri show me delusion https://t.co/Dody11l5nV'},
+ {'id': '1513963222063276038',
+  'source': 'Twitter for Android',
+  'text': 'RT @Eng_Matarra: Mwaka 2018 Kaimu Mkurugenzi Mkuu wa CIA, alisema '
+          'hutumia zaidi ya US$ 19 Bilioni sawa na Tshs Trilion 44 alipohijiwa '
+          'na ch…'},
+ {'id': '1513963172146950147',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @itsmesevin: یهو به سیریش گفت “hey siri how can i make my girl '
+          'happy”\n'
+          'نمیرم براش؟ 🥲'},
+ {'id': '1513963024167673857',
+  'source': 'Twitter for Android',
+  'text': 'RT @jadevsediting: hey siri, add leighton murray to the list of '
+          'lesbian characters i would die for. https://t.co/omOdwYEDQL'},
+ {'id': '1513962963002175488',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513962923617574920',
+  'source': 'Twitter for iPhone',
+  'text': '“Hey Siri, where’s my dad?”'},
+ {'id': '1513962893657743374',
+  'source': 'Twitter for Android',
+  'text': 'RT @JJansaSDS: Tole pozivanje govornice iz Dražgoš Jurasove na '
+          'ponovitev povojnih pobojev se širi po omrežjih že mesece. Ljudi je '
+          'ponovno s…'},
+ {'id': '1513962858111029254',
+  'source': 'Twitter for Android',
+  'text': 'RT @gyokurodream: hey siri play beercan boy by @pansydivision '
+          'https://t.co/n0j4N98Ibp'},
+ {'id': '1513962820014120964',
+  'source': 'Twitter Web App',
+  'text': 'Remembering the ‘First Lady of Star Trek’ Whose Voice Paved the Way '
+          'for Alexa and Siri https://t.co/vOpQvVIzjD via @Yahoo'},
+ {'id': '1513962808903229442',
+  'source': 'Twitter for iPhone',
+  'text': 'Siri play Tracy, Ca by Larry June 🍊🧡 @LarryJuneTFM '
+          'https://t.co/LkU9c5eFuk'},
+ {'id': '1513962771871842312',
+  'source': 'Twitter for iPad',
+  'text': 'RT @celtjules66: Siri, show me what a massive bellend looks like 🙄'},
+ {'id': '1513962731996647430',
+  'source': 'Twitter for iPhone',
+  'text': '@TheShadeRoom 🗣 Hey #siri, play “Obsessed” by @MariahCarey 🎶 ✨'},
+ {'id': '1513962715454541826',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @MIKANmobile: Siriのボイパ聴いたら初心者でも天才級に上手くなった '
+          'https://t.co/m67nFom3lA'},
+ {'id': '1513962709049565191',
+  'source': 'Twitter for Android',
+  'text': '"Siri, show me a hoofwankingbunglecunt.\n'
+          'Feck sake, him again?"\n'
+          '#ResignBorisJohnson https://t.co/YqUx8l8DXb'},
+ {'id': '1513962681472106500',
+  'source': 'Twitter Web App',
+  'text': 'Siri, when is an apology not an apology? https://t.co/aGHT4Kw8rL'},
+ {'id': '1513962679983038464',
+  'source': 'Twitter for iPhone',
+  'text': 'Siri. How do I report fking murder? https://t.co/TSy9BCsRGO'},
+ {'id': '1513962654787899396',
+  'source': 'Twitter Web App',
+  'text': 'Toshkentda @AmerikaOvozi bilan suhbatda @UsAmbUzbekistan '
+          "@usembtashkent Ukrainadagi urushga nisbatan siyosat, G'arb "
+          "sanksiyalarining O'zbekistonga ta'siri, Tolibonga talablar, bugungi "
+          'prioritetlar va tarixiy saboqlarni muhokama qildi. #Uzbekistan '
+          'https://t.co/xlVuVLSW5K https://t.co/nANHtUJs4G'},
+ {'id': '1513962635406061569',
+  'source': 'Twitter for Android',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513962612492537860',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513962600207470599',
+  'source': 'Twitter for Android',
+  'text': '@TomasCas21_ @siri_1899 Hola @TomasCas21_ mi hijo adolescente me '
+          'tiene atomizada xq quiere ir y la verdad si aún te queda una '
+          '...puedo permutar x algo dulce tipo brownie o torta ..la butaca '
+          '...el hijo x ahora no...😜'},
+ {'id': '1513962574492143633',
+  'source': 'Twitter for Android',
+  'text': "@MLBNetwork Jose Siri bat flip over anything I've ever seen by "
+          'anyone else!!!'},
+ {'id': '1513962570977325068',
+  'source': 'Twitter for iPhone',
+  'text': 'siri por qué no me llama?'},
+ {'id': '1513962523015397380',
+  'source': 'Twitter for Android',
+  'text': '@hannestschuertz Moment nochmal Siri ist ein Mensch'},
+ {'id': '1513962457798258689',
+  'source': 'Twitter for Android',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513962385979035652',
+  'source': 'Twitter Web App',
+  'text': 'RT @itsmesevin: یهو به سیریش گفت “hey siri how can i make my girl '
+          'happy”\n'
+          'نمیرم براش؟ 🥲'},
+ {'id': '1513962273038995457',
+  'source': 'Twitter for Android',
+  'text': 'RT @abijeet_fan: Exact ga chepparu 🤗\n'
+          'Ipudu bindu vishayam lo stand teskovadam la asal thappu ledu but '
+          'last year Siri ni analsinavi anni ani…'},
+ {'id': '1513962273026416640',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @gyokurodream: hey siri play beercan boy by @pansydivision '
+          'https://t.co/n0j4N98Ibp'},
+ {'id': '1513962236808957952',
+  'source': 'Twitter for iPhone',
+  'text': 'いきなりこれが出まくるの何、Siriはいきなり反応するし、やめて。夜中よ https://t.co/yU1dOWycXm'},
+ {'id': '1513962208023261193',
+  'source': 'Twitter Web App',
+  'text': '@carlo_siri @cbarriaz 🤬'},
+ {'id': '1513962205179355140',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @RuthlessRoy: Siri Dahl catches a thick load on her chin '
+          '#cumshot #facial #rehead #siridahl #siri #bigload #moneyshot '
+          'https://t.co/TadIn…'},
+ {'id': '1513962204193824776',
+  'source': 'Twitter for iPhone',
+  'text': '@OhMyDaysKamo 😭😭😭😭Siri Ke sefebe hle!!'},
+ {'id': '1513962012140879872',
+  'source': 'Twitter for iPhone',
+  'text': 'hey siri, find me some affordable housing'},
+ {'id': '1513962006277242893',
+  'source': 'Twitter Web App',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513961954414456834',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @0Firmes: Si yo fuera el señor Siri habría donado el total de '
+          'ese dinero a mis empleados por la valentía de acompañarme para '
+          'seguir con…'},
+ {'id': '1513961920545665040',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513961890074013707',
+  'source': 'TweetDeck',
+  'text': 'Ich wusste bis gerade eben nicht, dass ich Siri kenne. Also die '
+          'Stimme hinter Siri ist jemand, den ich offenbar persönlich kenne. '
+          'Und mir ist das nie aufgefallen. Krass.'},
+ {'id': '1513961870130098189',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @MultigremialN: Hoy nos acercamos a la Antigua Fuente para '
+          'entregar los $2.641.000 que aportaron más de 100 emprendedores. '
+          '@carlo_siri d…'},
+ {'id': '1513961868137832455',
+  'source': 'Twitter for iPhone',
+  'text': 'یهو به سیریش گفت “hey siri how can i make my girl happy”\n'
+          'نمیرم براش؟ 🥲'},
+ {'id': '1513961767663140865',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @ysk_oh1: 「Hey, Siri‼︎ 阪神タイガースが勝つ方法を教えて！」\n'
+          '\n'
+          'Siri「すみません。よくわかりません。」'},
+ {'id': '1513961764920209410',
+  'source': 'Twitter for iPhone',
+  'text': '@ItsBrwnSgr That’s a Fact!! But whenever I need Siri she’s nowhere '
+          'to be found 🤦\u200d♂️'},
+ {'id': '1513961764089733137',
+  'source': 'Twitter for Android',
+  'text': 'RT @PK_Richie: @SongoJr2 @BmQuaresma @Adventure_36 Sio siri hapa '
+          'kanda ya ziwa mna heshima yenu tena kubwa tyuu yn ile kutokea '
+          'mwanza mpk d…'},
+ {'id': '1513961763456393218',
+  'source': 'Twitter for Android',
+  'text': '@MarinikaTepic Ona se bavi politikom? Žena koja širi mržnju zbog '
+          'svog ega i sujete? Bas degute.'},
+ {'id': '1513961757403983875',
+  'source': 'Twitter for iPhone',
+  'text': '@carlo_siri @cbarriaz 😵\u200d💫'},
+ {'id': '1513961751250968579',
+  'source': 'Twitter for Android',
+  'text': 'RT @REC_CFC: Majamaa hii ni Ile time hustle inakataa,unatry kila '
+          'kitu but inakupiga chenga,Leo Niko na Siri Moja maridadi ,hapa Niko '
+          'na cou…'},
+ {'id': '1513961715884445697',
+  'source': 'Twitter for Android',
+  'text': 'RT @MultigremialN: Hoy nos acercamos a la Antigua Fuente para '
+          'entregar los $2.641.000 que aportaron más de 100 emprendedores. '
+          '@carlo_siri d…'},
+ {'id': '1513961707454046213',
+  'source': 'Twitter for Android',
+  'text': 'RT @REC_CFC: Majamaa hii ni Ile time hustle inakataa,unatry kila '
+          'kitu but inakupiga chenga,Leo Niko na Siri Moja maridadi ,hapa Niko '
+          'na cou…'},
+ {'id': '1513961701925916677',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513961645973909506',
+  'source': 'Twitter for Android',
+  'text': 'RT @TheAeronut: Siri: show me someone completely out of touch with '
+          'reality...'},
+ {'id': '1513961624872304640',
+  'source': 'Twitter for iPhone',
+  'text': 'no poor girl is named siri😭'},
+ {'id': '1513961624763252738',
+  'source': 'Twitter for iPhone',
+  'text': 'hey Siri, play me Niyola Toh BAD'},
+ {'id': '1513961605121327118',
+  'source': 'Twitter for Android',
+  'text': 'RT @REC_CFC: Majamaa hii ni Ile time hustle inakataa,unatry kila '
+          'kitu but inakupiga chenga,Leo Niko na Siri Moja maridadi ,hapa Niko '
+          'na cou…'},
+ {'id': '1513961588834906128',
+  'source': 'Twitter Web App',
+  'text': 'Siri, show me the shiniest brass neck in Parliament. '
+          'https://t.co/6KK88vqkqE'},
+ {'id': '1513961546942070785',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Audge_bangVVIP: @onibugia Siri play Stupid Liar by BIGBANG \n'
+          '\n'
+          'BIGBANG ON BILLBOARD \n'
+          'STILL BIGBANG AND VIP\n'
+          '@YG_GlobalVIP\n'
+          '#BIGBANG_StillLi…'},
+ {'id': '1513961527539343369',
+  'source': 'Twitter for iPhone',
+  'text': 'Run after him and tell Siri to lock the phone '
+          'https://t.co/PKedZiOdSN'},
+ {'id': '1513961492512747520',
+  'source': 'Twitter for iPhone',
+  'text': '😂😂🤣🤣 Siri always poppin out when you don’t need her ass!!! SMH!! '
+          'https://t.co/l2SLef485i'},
+ {'id': '1513961488725250065',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513961410530885634',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @gyokurodream: hey siri play beercan boy by @pansydivision '
+          'https://t.co/n0j4N98Ibp'},
+ {'id': '1513961379467780101',
+  'source': 'Twitter for Android',
+  'text': '@BaSS_PLUGg Kwani mnalala kwa kiwanja hakuna siri?'},
+ {'id': '1513961246885744642',
+  'source': 'Twitter for Android',
+  'text': 'RT @uehraym_: 저 궁금한 거 생겻어요 일본어로 엉덩이를 오시리?라고 하잖아요 그럼 일본인들은 엉덩이를 말할 '
+          '때마다 siri가 대답하나요?'},
+ {'id': '1513961223733211137',
+  'source': 'Twitter for iPad',
+  'text': '@godblesstoby @bo_novak Siri, show me an example of #maleprivilege '
+          'acted out in the public arena in real time.'},
+ {'id': '1513961148655321110',
+  'source': 'Twitter for iPhone',
+  'text': 'The sun is shining and it’s 70° out. Hey Siri, play Red Red Wine '
+          'and my summer Spotify playlist plz'},
+ {'id': '1513961033362202632',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @faby__rn: Siri faut qu’il s’améliore quand il lit les notifs '
+          'sur snap'},
+ {'id': '1513961005755285509',
+  'source': 'Twitter for Android',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513960983903219712',
+  'source': 'Twitter for Android',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513960949459214338',
+  'source': 'Twitter for Android',
+  'text': 'RT @MultigremialN: Hoy nos acercamos a la Antigua Fuente para '
+          'entregar los $2.641.000 que aportaron más de 100 emprendedores. '
+          '@carlo_siri d…'},
+ {'id': '1513960918337691651',
+  'source': 'Twitter Web App',
+  'text': 'RT @TheAeronut: Siri: show me someone completely out of touch with '
+          'reality...'},
+ {'id': '1513960888268738560',
+  'source': 'Twitter for Android',
+  'text': '@Siri_Cili @Quantum2626 Bağrıma daş bastım Siri seni unutmaya '
+          'asfgghhjjh\n'
+          'Siri yaaa 🙏🙏😊'},
+ {'id': '1513960883550138374',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @VipArsenal: Siri, define rivalry:\nhttps://t.co/bvSXnl29JS'},
+ {'id': '1513960792915251200',
+  'source': 'Twitter for Android',
+  'text': 'RT @MultigremialN: Hoy nos acercamos a la Antigua Fuente para '
+          'entregar los $2.641.000 que aportaron más de 100 emprendedores. '
+          '@carlo_siri d…'},
+ {'id': '1513960792537899016',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @officialsilasMD: "Abena AI" is a hands-free voice assistant for '
+          'Ghanaian languages... a.k.a Twi Siri. Developed by a Ghanaian.\n'
+          '\n'
+          'It work…'},
+ {'id': '1513960734291542022',
+  'source': 'Twitter for Android',
+  'text': 'RT @fabio_carapeta: Oh o carro do meu pai esticou bué: \n'
+          'O meu pai " olá mercedes o que achas da BMW ?"\n'
+          'A "siri" da mercedes respondeu:\n'
+          '" De…'},
+ {'id': '1513960666738184192',
+  'source': 'Twitter for iPhone',
+  'text': '@SongoJr2 @BmQuaresma @Adventure_36 Sio siri hapa kanda ya ziwa mna '
+          'heshima yenu tena kubwa tyuu yn ile kutokea mwanza mpk dodoma '
+          'kiduku ni mbele tyuuu mbele yao ata ma🍊 yanatamani kuwa climber😂😂'},
+ {'id': '1513960615387316227',
+  'source': 'Twitter for Android',
+  'text': 'RT @REC_CFC: Majamaa hii ni Ile time hustle inakataa,unatry kila '
+          'kitu but inakupiga chenga,Leo Niko na Siri Moja maridadi ,hapa Niko '
+          'na cou…'},
+ {'id': '1513960593052647426',
+  'source': 'Twitter for Android',
+  'text': 'Majamaa hii ni Ile time hustle inakataa,unatry kila kitu but '
+          'inakupiga chenga,Leo Niko na Siri Moja maridadi ,hapa Niko na '
+          'courses kadhaa ya ALX , 💯 full scholarship  huezi teseka maze ,hebu '
+          'click this link \n'
+          'https://t.co/z4O9WpU48u https://t.co/lVIGjUQOlW'},
+ {'id': '1513960592675336192',
+  'source': 'twittbot.net',
+  'text': 'Siriに話しかけて、特定の時間にアラームを設定させましょう。いくつでも好きなだけ設定できます。'},
+ {'id': '1513960488870285321',
+  'source': 'Twitter for iPhone',
+  'text': 'Hoy entregamos nuevo pisarrastrojos a Siri de la ciudad de '
+          'Bragado🚀🚀\n'
+          '\n'
+          'PEDÍ TU COTIZACIÓN ‼️‼️\n'
+          '\n'
+          'COMERCIAL 9 DE JULIO, 25 años 👩🏻\u200d🌾🧑\u200d🌾\n'
+          '\n'
+          '☎️02317-433110\n'
+          '📍RUTA 5 KM 265 - 9 de Julio (B)\n'
+          '📲2317-555264/5\n'
+          '📲2317-532635 https://t.co/rnPmB9Tlha'},
+ {'id': '1513960455026483206',
+  'source': 'Twitter Web App',
+  'text': 'Siri: show me someone completely out of touch with reality... '
+          'https://t.co/Yu9iLjEtkF'},
+ {'id': '1513960422810042371',
+  'source': 'Twitter for iPhone',
+  'text': '—Te dejo, estás obsesionado con tu Iphone.\n'
+          ' —¿Pe..Pero qué dices Siri?. \n'
+          '—¡SARA, soy SARA!.'},
+ {'id': '1513960412945223682',
+  'source': 'Twitter for Android',
+  'text': '@Siri_No9 お仕事大変ですね。\n私も残り31まできました。やっと終わりが見えてきた感じです。'},
+ {'id': '1513960400882216968',
+  'source': 'Twitter Web App',
+  'text': 'RT @WabiSabiNFT: @BBRCOfficial @FreemanZion1 @MrGentleApe Winners '
+          '🏆\n'
+          '• @Manners841\n'
+          '• @peculo_art\n'
+          '• @Siri_eth\n'
+          '• @Tutul1994\n'
+          '• @Irene666888\n'
+          '\n'
+          'Ch…'},
+ {'id': '1513960399636422660',
+  'source': 'Twitter Web App',
+  'text': 'RT @WabiSabiNFT: @BBRCOfficial @FreemanZion1 @MrGentleApe Winners '
+          '🏆\n'
+          '• @Manners841\n'
+          '• @peculo_art\n'
+          '• @Siri_eth\n'
+          '• @Tutul1994\n'
+          '• @Irene666888\n'
+          '\n'
+          'Ch…'},
+ {'id': '1513960397971279875',
+  'source': 'Twitter Web App',
+  'text': 'RT @WabiSabiNFT: @BBRCOfficial @FreemanZion1 @MrGentleApe Winners '
+          '🏆\n'
+          '• @Manners841\n'
+          '• @peculo_art\n'
+          '• @Siri_eth\n'
+          '• @Tutul1994\n'
+          '• @Irene666888\n'
+          '\n'
+          'Ch…'},
+ {'id': '1513960393210986496',
+  'source': 'Twitter for iPhone',
+  'text': '@BettyBowers Wow. Same results from Siri.'},
+ {'id': '1513960391893827590',
+  'source': 'Twitter Web App',
+  'text': 'RT @WabiSabiNFT: @BBRCOfficial @FreemanZion1 @MrGentleApe Winners '
+          '🏆\n'
+          '• @Manners841\n'
+          '• @peculo_art\n'
+          '• @Siri_eth\n'
+          '• @Tutul1994\n'
+          '• @Irene666888\n'
+          '\n'
+          'Ch…'},
+ {'id': '1513960391017213960',
+  'source': 'Twitter Web App',
+  'text': 'RT @WabiSabiNFT: @BBRCOfficial @FreemanZion1 @MrGentleApe Winners '
+          '🏆\n'
+          '• @Manners841\n'
+          '• @peculo_art\n'
+          '• @Siri_eth\n'
+          '• @Tutul1994\n'
+          '• @Irene666888\n'
+          '\n'
+          'Ch…'},
+ {'id': '1513960356670021637',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @astrosncoffee16: Siri, who did the Astros play in WS in 2017? '
+          'https://t.co/Drkeh6RxBc'},
+ {'id': '1513960319760089094',
+  'source': 'Twitter Web App',
+  'text': '@mikegalsworthy I think he was just speaking out loud to BJ and '
+          'Siri popped it on here?!'},
+ {'id': '1513960312814383106',
+  'source': 'Twitter for Android',
+  'text': 'RT @fabio_carapeta: Oh o carro do meu pai esticou bué: \n'
+          'O meu pai " olá mercedes o que achas da BMW ?"\n'
+          'A "siri" da mercedes respondeu:\n'
+          '" De…'},
+ {'id': '1513960311509987337',
+  'source': 'Twitter for iPhone',
+  'text': '@ItsBrwnSgr Siri be like : Would you like me to send this?\n'
+          '\n'
+          'Me- NOOOOOOO!!!!!!! https://t.co/9czEHrFn7U'},
+ {'id': '1513960307638558729',
+  'source': 'Twitter for Android',
+  'text': 'RT @itsagoinwrang: Siri… “What does SPINELESS mean?”'},
+ {'id': '1513960281239699471',
+  'source': 'Twitter for iPhone',
+  'text': 'La aptal siri ikide bi açılıp durma'},
+ {'id': '1513960274721591298',
+  'source': 'twittbot.net',
+  'text': "Hello I'm Siri  #Siri_Bot"},
+ {'id': '1513960250550136833',
+  'source': 'twittbot.net',
+  'text': 'Siriに「○○は僕の父」「○○は○○のフィアンセ」と教えると、関係者情報を登録してくれる。「○○の妻に電話」などの指示で操作できるようになる。'},
+ {'id': '1513960247005573122',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @gyokurodream: hey siri play beercan boy by @pansydivision '
+          'https://t.co/n0j4N98Ibp'},
+ {'id': '1513960240001298446',
+  'source': 'Twitter for Android',
+  'text': 'RT @JJansaSDS: Tole pozivanje govornice iz Dražgoš Jurasove na '
+          'ponovitev povojnih pobojev se širi po omrežjih že mesece. Ljudi je '
+          'ponovno s…'},
+ {'id': '1513960171562745858',
+  'source': 'Twitter for Android',
+  'text': 'RT @CoxstoreTz: 🦅HIZI APA CODE ZA SIRI SANA KWENYE SIMU YAKO '
+          'ZITAKUSAIDIA PIA KUJUA KAMA SIMU YAKO NI FAKE\n'
+          '⚡️⚡️⚡️⚡️⚡️\n'
+          '\n'
+          '1.*#61#\n'
+          'Baada ya kup…'},
+ {'id': '1513959994965872642',
+  'source': 'Twitter Web App',
+  'text': 'RT @Herr_Currywurst: Wir halten fest: Siri neue alte Erzfeind! UND '
+          'Hummeln sind gerne bei uns Gast 🌝 Ich danke euch für den kurzen '
+          'knackige…'},
+ {'id': '1513959952129433601',
+  'source': 'Twitter for iPhone',
+  'text': '@bahwe30 Nan je dis a Siri d’écrire c’est plus mieux'}]

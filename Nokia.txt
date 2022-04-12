@@ -1,0 +1,446 @@
+[{'id': '1513963135329312769',
+  'source': 'Twitter for Android',
+  'text': '@stherwsouz nn e a msm coisa, ou e um filme pornô com capa do '
+          'filme, ou 500 partes com uma qualidade pior q a de um nokia'},
+ {'id': '1513963080706842624',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @javiersolana: Nokia, whose telecommunications equipment plays '
+          'an important role providing internet and communications in Russia, '
+          'said o…'},
+ {'id': '1513962883998224399',
+  'source': 'Twitter for iPhone',
+  'text': '@Baah_L @kobiwaynejr This picture on Nokia X2 then was the vibe 😁'},
+ {'id': '1513962877580890120',
+  'source': 'Twitter for Android',
+  'text': 'دنیا کا رواج ھے جب مارکیٹ  پر کوی برانڈ قبضہ جما لیتا ھے تو '
+          'ایکسپوٹر کوشش کرتے ھے اس سے بھتر چیز سستے دام میں پھینکتے ھے ۔اس '
+          'دفعہ ایمپورٹرو سے یہ غلطی ھوی ھے کہ iPhone کے مقابلے میں '
+          'nokia1133کو پالش کرکے لے کے ایا ۔عمران خان برانڈ ھے Nokia 1133کا '
+          'اوقات نھی برانڈ کو مارکیٹ سے باھر'},
+ {'id': '1513962776812793870',
+  'source': 'Twitter for iPhone',
+  'text': '@BoneKnightmare Time to whip out the old Nokia. Lol'},
+ {'id': '1513962750040592388',
+  'source': 'Twitter Web App',
+  'text': 'RT @sosed_zzaebal: Новость об уходе Nokia с российского рынка в '
+          '2022 году ошарашивает в первую очередь тем,что оказывается она на '
+          'этом рынк…'},
+ {'id': '1513962695183282186',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @imsfi_: évidemment les boursiers devraient se trimballer un '
+          'nokia 2008 et un carnet de notes tah sherlock holmes'},
+ {'id': '1513962681765699587',
+  'source': 'Twitter Web App',
+  'text': '#Shanghai De beelden in #China zijn veel erger dan de gemiddelde '
+          '#Nokia laat zien Ze zijn verschrikkelijk en waarom zou dit niet '
+          'naar Amsterdam kunnen waaien Denk na! We zagen het in 2020 '
+          'gebeuren\n'
+          'Twitter weigert deze beelden Misschien @elonmusk ? '
+          'https://t.co/kflSvVVpz7 https://t.co/b9cMpJfGuI '
+          'https://t.co/hSWTSsI7La'},
+ {'id': '1513962680620572679',
+  'source': 'SocialNewsDesk',
+  'text': 'https://t.co/peaVg0SZPL'},
+ {'id': '1513962659397267456',
+  'source': 'Twitter Web App',
+  'text': '#Tecnología La finlandesa #Nokia anunció su retiro del mercado ruso '
+          'y despedirá a parte de su nómina.  La noticia se da a conocer un '
+          'día después de que su rival sueco #Ericsson determinara suspender '
+          'indefinidamente sus actividades en Rusia. https://t.co/Vm4h6FSroW'},
+ {'id': '1513962592867344390',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @nytimes: Nokia, whose equipment helps provide internet and '
+          'communications in Russia, said it was exiting the country because '
+          'of the war…'},
+ {'id': '1513962529306853382',
+  'source': 'Twitter Web App',
+  'text': 'RT @dorotta_ha: @SokoKalina Pierwsza wojna gdzie przy takim '
+          'dostępie do sprzętów elektronicznych nie ma żadnych filmów, '
+          'reportaży z frontu…'},
+ {'id': '1513962523015401477',
+  'source': 'Twitter for iPhone',
+  'text': '@sensei_wizard got that nokia'},
+ {'id': '1513962440375128066',
+  'source': 'Twitter Web App',
+  'text': 'RT @MoscowTimes: Finnish telecommunications company Nokia announced '
+          'it is pulling out of the Russian market amid the country’s ongoing '
+          'inva…'},
+ {'id': '1513962403540746245',
+  'source': 'Twitter for Android',
+  'text': 'RT @nowucme_sven: Ukraine-Krieg: Huawei und Nokia ziehen sich aus '
+          'Russland zurück | heise online https://t.co/oCjI7c2ZZ2'},
+ {'id': '1513962376420282372',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @imsfi_: évidemment les boursiers devraient se trimballer un '
+          'nokia 2008 et un carnet de notes tah sherlock holmes'},
+ {'id': '1513962362885353481',
+  'source': 'Twitter for Android',
+  'text': 'RT @lilygrutcher: Nokia leaves Russia.'},
+ {'id': '1513962298020450312',
+  'source': 'Twitter for Android',
+  'text': 'RT @ru_rbc: ⚡️Финская компания Nokia объявила об уходе с '
+          'российского рынка'},
+ {'id': '1513962283554127872',
+  'source': 'Twitter Web App',
+  'text': 'RT @anders_aslund: Nokia is pulling out of Russia. Ericsson, the '
+          'other big telecom equipment supplier, is bound to follow. Then, '
+          "Russia's n…"},
+ {'id': '1513962252759711749',
+  'source': 'Twitter for Android',
+  'text': 'RT @clothedmode: Nokia: 3300 Gaming Phone (2003) '
+          'https://t.co/IfWQHUkpyX'},
+ {'id': '1513962177857789952',
+  'source': 'Twitter for Android',
+  'text': 'RT @dw_espanol: #Nokia abandonará #Rusia, anunció el martes la '
+          'empresa finlandesa de telecomunicaciones, un día después de que su '
+          'rival #Er…'},
+ {'id': '1513962160304574479',
+  'source': 'Twitter for iPad',
+  'text': '@lilygrutcher Yes!👏 https://t.co/CjfZiNjmHX'},
+ {'id': '1513962138511060994',
+  'source': 'Twitter for Android',
+  'text': 'RT @clothedmode: Nokia: 3300 Gaming Phone (2003) '
+          'https://t.co/IfWQHUkpyX'},
+ {'id': '1513962111004774403',
+  'source': 'Twitter for Android',
+  'text': 'RT @dw_russian: Nokia объявила об уходе с российского рынка. В '
+          'заявлении финского производителя телекоммуникационного оборудования '
+          'говоритс…'},
+ {'id': '1513962100481306629',
+  'source': 'Twitter for Android',
+  'text': 'RT @lilygrutcher: Nokia leaves Russia.'},
+ {'id': '1513962076527550474',
+  'source': 'Twitter for Android',
+  'text': 'RT @MoscowTimes: Finnish telecommunications company Nokia announced '
+          'it is pulling out of the Russian market amid the country’s ongoing '
+          'inva…'},
+ {'id': '1513962012082163712',
+  'source': 'Twitter for Android',
+  'text': 'RT @clothedmode: Nokia: 3300 Gaming Phone (2003) '
+          'https://t.co/IfWQHUkpyX'},
+ {'id': '1513962002720468992',
+  'source': 'Twitter for Android',
+  'text': 'RT @Excelsior: 📱La empresa finlandesa anunció que abandonará el '
+          'mercado ruso, un día después de que su rival sueco Ericsson hiciera '
+          'lo mism…'},
+ {'id': '1513961996034748427',
+  'source': 'Twitter Web App',
+  'text': 'Nokia se retira del mercado ruso por la guerra de Ucrania\n'
+          ' https://t.co/5eOJo439h4 https://t.co/Ners4UG6nd'},
+ {'id': '1513961994768072712',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @nytimes: Nokia, whose equipment helps provide internet and '
+          'communications in Russia, said it was exiting the country because '
+          'of the war…'},
+ {'id': '1513961910772940808',
+  'source': 'theglobe.co.com',
+  'text': '(Xshuai Câble de données micro USB en chanvre pour Samsung, Sony, '
+          'Moto, HTC, Nokia Noir 2 m) has been published on The Globe - '
+          'https://t.co/RaihOVwCPa'},
+ {'id': '1513961903369957392',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @imsfi_: évidemment les boursiers devraient se trimballer un '
+          'nokia 2008 et un carnet de notes tah sherlock holmes'},
+ {'id': '1513961785484845073',
+  'source': 'Twitter Web App',
+  'text': '#Nokia arrête ses opérations en #Russie https://t.co/maHuzXcFr6  '
+          '@nokianews'},
+ {'id': '1513961707495997445',
+  'source': 'Twitter for Android',
+  'text': '"The other me...- Oh- Oh no-" \n'
+          '\n'
+          "She's- oddly scared for her life, if the other Nokia could fall to "
+          "the Eaters, then- what's stopping her from falling victim too?"},
+ {'id': '1513961656275058699',
+  'source': 'Twitter Web App',
+  'text': "@brasher_pam Nokia and Ericsson aren't important.\n"
+          '\n'
+          'No, Huawei is not next. China is not as spineless.'},
+ {'id': '1513961631386112001',
+  'source': 'GroupTweet',
+  'text': 'The departure of the two companies could cause difficulties as '
+          'Russia seeks to expand and maintain its telecommunications '
+          'networks, which are built with equipment from the two firms. '
+          'https://t.co/KFlPZhhlmE via @dealbook'},
+ {'id': '1513961629419032584',
+  'source': 'TweetDeck',
+  'text': '#Nokia Oyj is planning to exit the Russian market in response to '
+          'the invasion of Ukraine, and the company has said that in recent '
+          'weeks it has suspended deliveries and halted new work, as well as '
+          'moving its "limited" research and development activities out of '
+          'Russia. https://t.co/CcltR4j07R'},
+ {'id': '1513961579645181953',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @gameauras: call of duty, Nokia N-GAGE (2004) '
+          'https://t.co/YXBTfp9bZt'},
+ {'id': '1513961449860780043',
+  'source': 'SocialFlow',
+  'text': 'The departure of the two companies could cause difficulties as '
+          'Russia seeks to expand and maintain its telecommunications '
+          'networks, which are built with equipment from the two firms. '
+          'https://t.co/QWbSEwiQiy'},
+ {'id': '1513961392155545607',
+  'source': 'Twitter for Android',
+  'text': '@missbond007__ Nokia'},
+ {'id': '1513961384832385038',
+  'source': 'Twitter Web App',
+  'text': '@allienfrens @EricksonKhan @JulieBahnline5 @Giathuyphan '
+          '@MegganPrawl @ElizabethPosads @YvonneMsi @LipskiMonty @Christiersan '
+          '@thitrungly @Robbs_luo @Hiphi_S @wuzhen1221 @EarmlA @GarberJeanniev '
+          '@JustinSliu @LakhiMukti @BramerLisha @NOKIA_MMMMMMM @Hiphi_X '
+          '@GoldiiKarin'},
+ {'id': '1513961264086765573',
+  'source': 'Twitter for Android',
+  'text': '@Juhavalvio @JuhaVasti Uskon että Tappara vs TPS finaalissa nokia '
+          'halli tulee täyteen. Tuskin ekassa pelissä vielä kylläkään.'},
+ {'id': '1513961242745925632',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @clothedmode: Nokia: 3300 Gaming Phone (2003) '
+          'https://t.co/IfWQHUkpyX'},
+ {'id': '1513961216082853901',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Dredd_Boy: Y’all remember playing Snake on the old Nokia? Lol'},
+ {'id': '1513961184034271235',
+  'source': 'Twitter Web App',
+  'text': 'RT @ru_rbc: ⚡️Финская компания Nokia объявила об уходе с '
+          'российского рынка'},
+ {'id': '1513961173825245185',
+  'source': 'Twitter Web App',
+  'text': 'Nokia leaves Russia.'},
+ {'id': '1513961092543913995',
+  'source': 'Twitter for Android',
+  'text': 'RT @seunoore: @Niggaolas @JheneAiko @queennaija BYE i meant queen '
+          'nokia… but queen naija can catch it too https://t.co/TE0YbsALpY'},
+ {'id': '1513961080883658758',
+  'source': 'Twitter Web App',
+  'text': 'RT @ElUniversal: La empresa de telecomunicaciones finlandesa Nokia '
+          'se retira de Rusia | #EUVzla | #Economia  https://t.co/lX7Z7CwqxF'},
+ {'id': '1513961021937004545',
+  'source': 'Twitter for Android',
+  'text': '@joellytottila Umepiga picha na Nokia 2720?'},
+ {'id': '1513961010285072385',
+  'source': 'Twitter Web App',
+  'text': '#Nokia se va de #Rusia y anuncia despidos\n'
+          'https://t.co/LKPYERDlpQ https://t.co/RyAWsSNhmt'},
+ {'id': '1513960937060929536',
+  'source': 'Twitter Web App',
+  'text': 'Ericsson and Nokia retreat from Russia https://t.co/dpEU8l2KX8'},
+ {'id': '1513960923677044746',
+  'source': 'Twitter for Android',
+  'text': "RT @Palababayigit33: Nokia 3310'un dayanıklılığıyla atama haberi "
+          'bekleyen 2021 KPSS öğretmenlerin dayanıklılığı ölümüne kapışır.\n'
+          '#Ogretmeni…'},
+ {'id': '1513960913505640451',
+  'source': 'Twitter for Android',
+  'text': 'RT @Excelsior: 📱La empresa finlandesa anunció que abandonará el '
+          'mercado ruso, un día después de que su rival sueco Ericsson hiciera '
+          'lo mism…'},
+ {'id': '1513960911857463296',
+  'source': 'Twitter for iPhone',
+  'text': '@phenrilermoo Ai o despertador do Nokia N95 tocou'},
+ {'id': '1513960881410957323',
+  'source': 'Twitter Web App',
+  'text': '$NOK Nokia to stop doing business in Russia '
+          'https://t.co/6TCXqvVBlV'},
+ {'id': '1513960835969953795',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Excelsior: 📱La empresa finlandesa anunció que abandonará el '
+          'mercado ruso, un día después de que su rival sueco Ericsson hiciera '
+          'lo mism…'},
+ {'id': '1513960562652241923',
+  'source': 'Twitter for Android',
+  'text': 'RT @CCAmobile: @mikeddano leading the Network Equipment keynote '
+          'panel featuring Eric Boudriau of @ericsson Ed Alfonso of @nokia '
+          'Chip Damato…'},
+ {'id': '1513960528389025793',
+  'source': 'Twitter for Android',
+  'text': 'RT @Excelsior: 📱La empresa finlandesa anunció que abandonará el '
+          'mercado ruso, un día después de que su rival sueco Ericsson hiciera '
+          'lo mism…'},
+ {'id': '1513960381559066629',
+  'source': 'Twitter for iPhone',
+  'text': '@Leah_Lyn0 Nokia'},
+ {'id': '1513960365222240261',
+  'source': 'Twitter for Android',
+  'text': 'RT @Political_Room: 🇷🇺La compañía de telecomunicaciones finlandesa '
+          'Nokia anuncia que cesa sus operaciones en Rusia.\n'
+          '\n'
+          'La decisión afectará a…'},
+ {'id': '1513960325430841350',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @imsfi_: évidemment les boursiers devraient se trimballer un '
+          'nokia 2008 et un carnet de notes tah sherlock holmes'},
+ {'id': '1513960278219796483',
+  'source': 'Twitter for Android',
+  'text': 'Korumuotikatsaus ja tissit. Ylinnä Merjalta korumetalli aito kivi, '
+          'Valo-koru Torvijäkälä-kääty patinoitu pronssi ketju ite pidennetty, '
+          'KK Nokia-riipus Paukun viimeinen, vanha malli eli järeä, Valo-koru '
+          'Hannu Ikonen kultapronssi papuketju 1 cm lenkit. Ehkä uniikki. '
+          'https://t.co/nlKyUxTsJv'},
+ {'id': '1513960272171606024',
+  'source': 'Twitter for Android',
+  'text': '@AladufeAladufe1 nokia'},
+ {'id': '1513960220858458126',
+  'source': 'TweetDeck',
+  'text': '📱La empresa finlandesa anunció que abandonará el mercado ruso, un '
+          'día después de que su rival sueco Ericsson hiciera lo mismo.\n'
+          '\n'
+          'https://t.co/jeudjLGv1y'},
+ {'id': '1513960079065849865',
+  'source': 'Twitter for iPhone',
+  'text': 'Une photo bien pixelisée, bien Nokia 3310 https://t.co/yVYPcfuQgU'},
+ {'id': '1513960073147658244',
+  'source': 'Twitter for Android',
+  'text': 'Tuve un sueño re loco donde iba a una tienda y regalaban iPhones '
+          'pero cuando llegaba a mi casa se convertían en celulares nokia '
+          'AYUDS'},
+ {'id': '1513960002469330951',
+  'source': 'Twitter for Android',
+  'text': "LRT I-is this the revival of nokia 3210 in Conan's universe?! Jokes "
+          'aside, that merch looks sturdy as hell'},
+ {'id': '1513959918604206080',
+  'source': 'Revive Social App',
+  'text': 'How to Fight Lex Luthor Using Only #Lumia Problems Issues &amp; '
+          'their resolutions Article The Nokia/Microsoft Lumia whichever is '
+          'with you is #prabhuwrites #prabhu #hymprudious '
+          'https://t.co/0NPvWTkC1m #lumiaissuesandcomplaints #nokialumia'},
+ {'id': '1513959671693983762',
+  'source': 'Twitter Web App',
+  'text': '【俄乌战火12日综合】法国宪兵队抵达乌克兰战区 Nokia宣佈撤出俄罗斯业务 https://t.co/zUJJDy37Ut via '
+          '@明德'},
+ {'id': '1513959644011577348',
+  'source': 'Twitter Web App',
+  'text': 'RT @MoscowTimes: Finnish telecommunications company Nokia announced '
+          'it is pulling out of the Russian market amid the country’s ongoing '
+          'inva…'},
+ {'id': '1513959637833424906',
+  'source': 'Twitter Web App',
+  'text': "@wontsomeonethi2 @HelenHighwatr @Alliewhowrites I'm going to chance "
+          "taking my old Nokia 'brick' that b/c of its size, I struggled to "
+          "fit in my bag. I'm sure it's old enough &amp; basic enough to "
+          'please even the most irritated of men that sees these things as '
+          'flaunting signs of wealth! 😶'},
+ {'id': '1513959609714806789',
+  'source': 'Twitter for Android',
+  'text': "@suzanne_GL @viskweker Zelfs EY, zo'n adviseur die vooral "
+          'gevestigde commerciële belangen behartigt, maakt al radioreclames '
+          "met: 'bedrijven die onderdeel zijn van de oplossing, zijn de "
+          "winnaars van morgen'  \n"
+          'Te weinig bedrijven beseffen dat ze spoedig in een '
+          'Kodak-/Nokia-positie terecht kunnen komen.'},
+ {'id': '1513959590412623878',
+  'source': 'Twitter for Android',
+  'text': 'RT @nexta_tv: #Finnish telecommunications company #Nokia has '
+          'announced its departure from the #Russian market. '
+          'https://t.co/NG8H5hdcqD'},
+ {'id': '1513959464885383169',
+  'source': 'Twitter Web App',
+  'text': 'Nokia suspende operaciones de #Rusia por invasión a #Ucrania '
+          'https://t.co/sv2Dos43bU https://t.co/NIIgKUOfks'},
+ {'id': '1513959451425923079',
+  'source': 'Twitter for iPhone',
+  'text': '@Mhaame_Jayne Nokia or G-tide😂😂😂'},
+ {'id': '1513959328503455748',
+  'source': 'Twitter for Android',
+  'text': 'RT @nexta_tv: #Finnish telecommunications company #Nokia has '
+          'announced its departure from the #Russian market. '
+          'https://t.co/NG8H5hdcqD'},
+ {'id': '1513959243371659267',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @seunoore: @Niggaolas @JheneAiko @queennaija BYE i meant queen '
+          'nokia… but queen naija can catch it too https://t.co/TE0YbsALpY'},
+ {'id': '1513959221171269646',
+  'source': 'TweetDeck',
+  'text': '#12Abr 🌎 | Nokia se despide de Rusia por invasión a Ucrania '
+          'https://t.co/PIbnna5LV6'},
+ {'id': '1513959196043137038',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @ru_rbc: ⚡️Финская компания Nokia объявила об уходе с '
+          'российского рынка'},
+ {'id': '1513959134978363399',
+  'source': 'Twitter for iPad',
+  'text': 'Nokia and Ericsson halt new business in Russia. Is Huawei next?\n'
+          'https://t.co/6M7uWyfysh\n'
+          '👍🏻'},
+ {'id': '1513958932817059843',
+  'source': 'Twitter for iPhone',
+  'text': '@Piechocinski Ok to rricson i Nokia się wycofały. Czas pokaże co '
+          'zrobi huawei. To byłby cios dla rosyjskiej telekomunikacji.'},
+ {'id': '1513958917939810305',
+  'source': 'Twitter for Android',
+  'text': 'RT @clothedmode: Nokia: 3300 Gaming Phone (2003) '
+          'https://t.co/IfWQHUkpyX'},
+ {'id': '1513958912978006023',
+  'source': 'Twitter for Android',
+  'text': 'RT @NokiamobBlog: Nokia prototypes that show the might of the brand '
+          'https://t.co/Qtl6RVY1Rl'},
+ {'id': '1513958829503000585',
+  'source': 'Twitter for iPhone',
+  'text': '@sliykeboy23 @kobiwaynejr Herhhh this ringtone. Na I dey love pass. '
+          'I think it was the default ringtone for the Nokia 1680 or so. 😂 '
+          'https://t.co/ymAFFhRWun'},
+ {'id': '1513958795826937868',
+  'source': 'Twitter for iPad',
+  'text': 'Y’all remember playing Snake on the old Nokia? Lol'},
+ {'id': '1513958789426331657',
+  'source': 'Twitter Web App',
+  'text': 'RT @Biz_Ukraine_Mag: Bravo, Nokia!'},
+ {'id': '1513958728382431235',
+  'source': 'Twitter for Android',
+  'text': 'RT @dorotta_ha: @SokoKalina Pierwsza wojna gdzie przy takim '
+          'dostępie do sprzętów elektronicznych nie ma żadnych filmów, '
+          'reportaży z frontu…'},
+ {'id': '1513958702499479557',
+  'source': 'Twitter for Android',
+  'text': 'RT @nokia: We announce exit from the Russian market. Read our '
+          'statement: https://t.co/f5NkBiCuR0'},
+ {'id': '1513958611566960661',
+  'source': 'Twitter for Android',
+  'text': '@Nokia_Never_Not @mcytburner2022 yes'},
+ {'id': '1513958600699527174',
+  'source': 'Twitter for Android',
+  'text': 'RT @dorotta_ha: @SokoKalina Pierwsza wojna gdzie przy takim '
+          'dostępie do sprzętów elektronicznych nie ma żadnych filmów, '
+          'reportaży z frontu…'},
+ {'id': '1513958575470743553',
+  'source': 'Twitter for Android',
+  'text': '@TryDisatHOM Come borrow my nokia touch e get radio 🤣'},
+ {'id': '1513958513164394512',
+  'source': 'Twitter Web App',
+  'text': '@cfecgc_nokia https://t.co/uHOY81jycK'},
+ {'id': '1513958492079640583',
+  'source': 'Twitter Web App',
+  'text': 'RT @nokia: We announce exit from the Russian market. Read our '
+          'statement: https://t.co/f5NkBiCuR0'},
+ {'id': '1513958470130802692',
+  'source': 'Twitter for Android',
+  'text': '⚡️#Nokia have announced its complete exit from the #Russian '
+          'market.'},
+ {'id': '1513958408336072704',
+  'source': 'Twitter Web App',
+  'text': 'RT @nokia: We announce exit from the Russian market. Read our '
+          'statement: https://t.co/f5NkBiCuR0'},
+ {'id': '1513958374962040845',
+  'source': 'Twitter Web App',
+  'text': '@nokia Thank you. My first mobile phone was Nokia and I loved your '
+          'brand. I hope that with this decision, you deserve to be back in '
+          'the top soon. Well done ❤️✌️👍'},
+ {'id': '1513958301314256915',
+  'source': 'Twitter Web App',
+  'text': 'RT @Piechocinski: Nokia wycofuje się z Rosji. W oświadczeniu spółka '
+          'przypomniała, że decyzja była dla firmy jasna od pierwszych dni '
+          'wojny,…'},
+ {'id': '1513958301221982212',
+  'source': 'Twitter for Android',
+  'text': '@Ikt_Kurou Esta cosa es más potente que un Nokia junto con un '
+          'phone'},
+ {'id': '1513958294125228045',
+  'source': 'Flamingo for Android',
+  'text': 'RT @nokia: We announce exit from the Russian market. Read our '
+          'statement: https://t.co/f5NkBiCuR0'},
+ {'id': '1513958203696033803',
+  'source': 'Twitter for Android',
+  'text': 'RT @L_ThinkTank: [ 🇷🇺 RUSSIE | 🇺🇦 UKRAINE ]\n'
+          '\n'
+          "🔸L'entreprise Nokia a déclaré se retirer du marché russe en raison "
+          'des "circonstances actuelle…'}]

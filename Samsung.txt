@@ -1,0 +1,525 @@
+[{'id': '1513962624727220234',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/dTzKkm61eV\n'
+          '#shopeesahur https://t.co/kjzjRsb08k'},
+ {'id': '1513962569425293313',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/0JdAfGMvuv'},
+ {'id': '1513962540384100355',
+  'source': 'Twitter Web App',
+  'text': 'RT @moverfly: @95star Ehm...ehm..coffeeh☕🙂. So gaeys + writters, '
+          'there are many benefits on having a blog &amp; making money 💸 is '
+          'one of it. It…'},
+ {'id': '1513962526790279169',
+  'source': 'Twitter for Android',
+  'text': "RT @izziboye: Devices I'm still looking forward to this year 2022 "
+          'in order of enthusiasm \n'
+          '\n'
+          'Microsoft Surface Studio 3\n'
+          'Samsung Galaxy Z fold…'},
+ {'id': '1513962518175096836',
+  'source': 'Twitter for Android',
+  'text': 'RT @regipao_alb: Yaaa hermanito, intercambia el iPhone, a mi me '
+          'queda mejor, andale, andaleee, que el Samsung no está nada mal, por '
+          'favor 🥺…'},
+ {'id': '1513962517143379982',
+  'source': 'Twitter for Android',
+  'text': '@BrianSB2022 https://t.co/ujq5xpGWi1'},
+ {'id': '1513962509669126155',
+  'source': 'Twitter for Android',
+  'text': '@SamsungDE I am already trying to buy the #GalaxyS22+ for a while '
+          'now, but I am always facing a new error on your German website. '
+          '#Samsung https://t.co/d8Viuwf0MJ'},
+ {'id': '1513962491042152448',
+  'source': 'Twitter for Android',
+  'text': 'samsung s22! https://t.co/TdzJ4EEn21'},
+ {'id': '1513962489301639172',
+  'source': 'Twitter for Android',
+  'text': '@americanas Uma lava e seca da Samsung 🥺❤'},
+ {'id': '1513962487959494665',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962482548756489',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962477599481864',
+  'source': 'AppTickerFeed',
+  'text': 'Samsung Galaxy Watch Active2 44mm Aluminium LTE Cloud Silver '
+          'Android Smartwatch 77€ günstiger Angebotspreis: 275,99€, '
+          'Vergleichspreis: 353,51€\n'
+          '\n'
+          'https://t.co/xQVe2XV1Jg'},
+ {'id': '1513962470263693313',
+  'source': 'Twitter for Android',
+  'text': 'Trying to switch my life over to high quality Samsung products🥰 so '
+          'far I got the Galaxy Watch 4 Classic, Samsung Galaxy S21+ phone, '
+          "and the Galaxy Buds Pro. What's next? #samsunggalaxy #samsung "
+          '#androidlife'},
+ {'id': '1513962467264991232',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/xCxfpYM5Q0 https://t.co/wqA5AxRH17'},
+ {'id': '1513962449766133764',
+  'source': 'twitter-bot-fab',
+  'text': 'RT @ATGizmos: #Samsung Galaxy A52 is receiving Android 12-based One '
+          'UI 4.1 update https://t.co/GizbhPxi2h #news #tech #technology '
+          '#apple #x…'},
+ {'id': '1513962447622836228',
+  'source': 'Twitter for iPhone',
+  'text': '@VfBenito Sanson keine auf dem Mark Uther gefallen dir die Luthen '
+          'von Samsung?'},
+ {'id': '1513962425128607746',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/2pvamgumsf'},
+ {'id': '1513962378899173378',
+  'source': 'Twitter for Android',
+  'text': 'صور موجودة من قبل 😺\n'
+          'ملحوظة .... كل الصور اللي انشرها من كاميرا هاتف Samsung galaxy a22 '
+          '( فئة اقتصادية ) https://t.co/tRImAeEFzi'},
+ {'id': '1513962375426228228',
+  'source': 'Twitter Web App',
+  'text': 'RT @RaritySniperNFT: "According to a recent announcement, many of '
+          'Samsung’s high-end smart TVs will let users browse, buy, and show '
+          'off NFT…'},
+ {'id': '1513962372666380289',
+  'source': 'Twitter for Android',
+  'text': "When you think you didn't make the top 20,000 but you just forgot "
+          'to refresh the metadata.🤦🏻\u200d♂️..\n'
+          '@SamsungDE @SamsungAT @SamsungSchweiz @Samsung @SamsungMobile '
+          '@SamsungMobileUS @decentraland https://t.co/iWtdYV783a'},
+ {'id': '1513962369474510855',
+  'source': 'Twitter Web App',
+  'text': '"koreans are the n!ggxxx of asia. Their victim complex is '
+          'unrivaled."\n'
+          '\n'
+          'https://t.co/lRBqNpX99E'},
+ {'id': '1513962364248330245',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/UfbvetKSdP'},
+ {'id': '1513962340068511749',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/m8jUSswprc https://t.co/flMfyPZecl'},
+ {'id': '1513962332325654534',
+  'source': 'Twitter for Android',
+  'text': '@BrianSB2022 https://t.co/Pzaiha7u0x'},
+ {'id': '1513962311689539585',
+  'source': 'Twitter for Android',
+  'text': 'Sahur, sahur! Bangunin temanmu buat Sahur, langsung dapat koin '
+          '&amp; kesempatan memenangkan HP Samsung Galaxy S22! Yuk ikutan '
+          'Shopee Sahur! Hanya sampai 1 Mei. https://t.co/zZ16syYpyj '
+          'https://t.co/dIZJMuhA3R'},
+ {'id': '1513962307650568192',
+  'source': 'Revive Social App',
+  'text': '#Samsung Galaxy A52 is receiving Android 12-based One UI 4.1 update '
+          'https://t.co/GizbhPxi2h #news #tech #technology #apple #xiaomi '
+          '#google'},
+ {'id': '1513962291133390848',
+  'source': 'Twitter for Android',
+  'text': '@SamsungBrasil Z Flip3 \n'
+          'me da de presente samsung, não quero terque vender meu útero'},
+ {'id': '1513962279242506242',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962274192605198',
+  'source': 'StockTwits Web',
+  'text': 'NVIDIA Corporation (NASDAQ: $NVDA), SAMSUNG ELECT LTD( $F) ( '
+          '$SSNLF) – Here’s Why BofA Views Nvidia As Leading Growth Company In '
+          'Semis https://t.co/7ODiuBD1Am'},
+ {'id': '1513962265317421065',
+  'source': 'Twitter Web App',
+  'text': 'مباريات جاريه الان\n'
+          '         بث مباشر    \n'
+          '  رابط البث المباشر 👇👇👇👇👇👇\n'
+          'https://t.co/ELl0wsmKwz https://t.co/LOafd4sNsz'},
+ {'id': '1513962258438762511',
+  'source': 'Twitter for Android',
+  'text': '@exame Estão atrasados.\nSamsung já possui este recurso.'},
+ {'id': '1513962256727703552',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/zDdt3Mj9Ey https://t.co/QvUkZUwxl1'},
+ {'id': '1513962254512713730',
+  'source': 'Twitter for Android',
+  'text': 'RT @techbharatco: Samsung Galaxy A73 5G Tech Specification, Price '
+          'and Details.\n'
+          '\n'
+          '@SamsungIndia @SamsungMobile @SamsungNewsIN #samsungA735G #…'},
+ {'id': '1513962250326851587',
+  'source': 'Twitter for Android',
+  'text': 'Pixle phone, Asus, Samsung S Series, OnePlus '
+          'https://t.co/7FXYBmDlPn'},
+ {'id': '1513962239677456387',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/pWNUS9BQsx'},
+ {'id': '1513962225341505554',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962190541398020',
+  'source': 'Twitter for Android',
+  'text': '@kral1faruk @HaberReport Yok samsung sitesinden mk.\n'
+          '\n'
+          'Mesut Çevik nereden baktı o zaman?'},
+ {'id': '1513962187282386948',
+  'source': 'Twitter Web App',
+  'text': 'يتلقى Samsung Galaxy M31 الآن تحديث Android 12 مع OneUI 4.1 تدريجيا '
+          '. https://t.co/QC9DO3OxWA'},
+ {'id': '1513962176742101005',
+  'source': 'Twitter',
+  'text': '#New #firmware #Samsung Galaxy S21 Ultra 5G #SM_G998B #PSN | pda: '
+          '#G998BXXU4CVC4 https://t.co/M19a6OLcTW'},
+ {'id': '1513962171687833602',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/foX645D3Ea'},
+ {'id': '1513962157045862402',
+  'source': 'Twitter for Android',
+  'text': '@samsung_manboy_ @F2O_Priv https://t.co/jThmr4lB8i'},
+ {'id': '1513962153434357762',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962140868259842',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962123294040065',
+  'source': 'Twitter for Android',
+  'text': 'samsung https://t.co/9HBnB31JdF'},
+ {'id': '1513962089706106886',
+  'source': 'Twitter for Android',
+  'text': '@BrianSB2022 https://t.co/FdK9QcwCHH'},
+ {'id': '1513962079786524675',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513962065618255883',
+  'source': 'Twitter for Android',
+  'text': '@ittybittybaddi3 I turn around for my airpods and Samsung Buds'},
+ {'id': '1513962061935513600',
+  'source': 'Shopee_ID',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/HsDZU8rIek https://t.co/VAqeMMK4AE'},
+ {'id': '1513962048283377664',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/53ll0gohTo https://t.co/AzMNnWGq9c'},
+ {'id': '1513962037080113157',
+  'source': 'Hootsuite Inc.',
+  'text': 'Hackers invadem canal da Samsung do Brasil no YouTube e publicam '
+          'vídeo sobre Bitcoin e Ethereum; perfil teve nome alterado '
+          'https://t.co/16QEXD0xg1'},
+ {'id': '1513962021016027147',
+  'source': 'Twitter for Android',
+  'text': 'مباريات جاريه الان\n'
+          '         بث مباشر    \n'
+          '  رابط البث المباشر 👇👇👇👇👇👇\n'
+          'https://t.co/g2toxNC82n https://t.co/MYR7NkjQlW'},
+ {'id': '1513961990582116356',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @NembuIa: that one heart break that made me move to my uncle me '
+          'farm for a month to do manual labour. \n'
+          'ngalusa iynkomo in the sun listen…'},
+ {'id': '1513961952757780481',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/zRlNBx5nAd'},
+ {'id': '1513961926988075008',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961914266701835',
+  'source': 'Twitter for Android',
+  'text': 'Capture everything that happens on the go with your camera as the '
+          'Samsung A53 5G captures stable videos, it captures finer details '
+          'even in low light,and also able to play around with Snapchat '
+          'filters that are updated regularly on FUN MODE #GalaxyADisplay '
+          '@SamsungMobileSA @Yfm https://t.co/CMBidF66mI'},
+ {'id': '1513961910772940808',
+  'source': 'theglobe.co.com',
+  'text': '(Xshuai Câble de données micro USB en chanvre pour Samsung, Sony, '
+          'Moto, HTC, Nokia Noir 2 m) has been published on The Globe - '
+          'https://t.co/RaihOVwCPa'},
+ {'id': '1513961905273991172',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/BzXnl0o5XK'},
+ {'id': '1513961891197906947',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/kJZxyIxuwD'},
+ {'id': '1513961837116604417',
+  'source': 'Twitter Web App',
+  'text': "RT @VelvetBunny505: It's Been a long time since i wanted to draw "
+          '@any_cemar ♡, and i really loved her look in the Samsung Galaxy A53 '
+          'releas…'},
+ {'id': '1513961833853456385',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/HukRfqZzqX'},
+ {'id': '1513961819282542601',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961818246590465',
+  'source': 'Twitter for Android',
+  'text': "Hey @YouTube et @SamsungBelgique, un bug de l'appli youtube sur ma "
+          'tv Samsung et je ne pense pas être le seul https://t.co/KjgV3lTlU3'},
+ {'id': '1513961808226312195',
+  'source': 'Twitter for Android',
+  'text': '@danielgalim Esse Samsung com o escudo do Galo dava para fazer uma '
+          'bombinha nele.  Hahahaha  tive quase todos desses aí.'},
+ {'id': '1513961802270490625',
+  'source': 'Twitter for iPhone',
+  'text': '@svens_friseur Mein neuer Fernseher ist von Samsung, Nat von '
+          'Philips'},
+ {'id': '1513961800164728833',
+  'source': 'Twitter for iPhone',
+  'text': '@SamsungIndia Made more than 10 calls to Samsung CS no solution '
+          'yet. The Samsung has become a fraud and pathetic company. We are '
+          'reselling our all Samsung acs and Freezer, LED . Post sales service '
+          'suck big time. @Samsung @samsungID @SamsungMobileUS @SamsungSupport '
+          '@SamsungUK @SamsungTV'},
+ {'id': '1513961799426707456',
+  'source': 'Twitter Web App',
+  'text': 'RT @Arts_Magazin: Samsung’dan yeni Galaxy A33 5G ve A53 5G’ye '
+          'lansmana özel sırasıyla 1000 TL ve 500 TL’ye varan indirimle sahip '
+          'olma\xa0fırsa…'},
+ {'id': '1513961757382959115',
+  'source': 'Twitter for Android',
+  'text': 'RT @karaure254: Buy Samsung Galaxy A33 5G \n'
+          '6GB/128GB @Ksh.34,500\n'
+          '-0705596611 from the @TheTomorrowTech\n'
+          'Location:moi avenue ,Kenya cinema pl…'},
+ {'id': '1513961738667892740',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/mfTnV7sXlT'},
+ {'id': '1513961733114654724',
+  'source': 'Twitter for Android',
+  'text': '@PlutoTV_LATAM No existe la app en Televisores Samsung '
+          'implementenla'},
+ {'id': '1513961710012485635',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961696578215937',
+  'source': 'Twitter for Android',
+  'text': 'RT @AnitasBellasArt: Check out our Navy Blue Brown Marble Agate '
+          'Gold Glitter design in our Redbubble Shop! Thank you so much for '
+          'your suppo…'},
+ {'id': '1513961659194552323',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2jDu6 https://t.co/vq3RvsIDRL'},
+ {'id': '1513961652500238340',
+  'source': 'Twitter',
+  'text': '#New #firmware #Samsung Galaxy A80 2019 #SM_A8050 #CHC | pda: '
+          '#A8050ZCU6DVC2 https://t.co/GQdte79GT8'},
+ {'id': '1513961650868846592',
+  'source': 'Twitter for iPhone',
+  'text': 'Indeed a wrong decision to purchase a @Samsung air conditioner from '
+          '@Flipkart , Incomplete installation Kit , damaged outdoor unit and '
+          'now @Flipkart says issue resolved ! When? How? Where? @Flipkart '
+          '@SamsungIndia https://t.co/oDnItnrIO6'},
+ {'id': '1513961626273140739',
+  'source': 'Weyes Social',
+  'text': 'Kimeery (HK) Industrial Limited: To provide costumers with samsung '
+          'j7 lcd screen replacement. #galaxyj7lcdscreenreplacement '
+          '#samsungj7lcdscreenreplacement https://t.co/VeL6tJrloq'},
+ {'id': '1513961626227126274',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961624218255361',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @BrightMinho: อยากรู้เหมือนกันว่าถ้าเอามาลองหา '
+          'จากโครงข่ายบลูทูธของ Samsung Galaxy จะหาได้แบบ Find My Network ของ '
+          'Apple มั้ย\n'
+          '\n'
+          'เพราะเท่า…'},
+ {'id': '1513961611329179649',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @BrightMinho: จริง ๆ แล้ว Samsung Galaxy มีระบบโครงข่าย '
+          'เหมือนทาง Apple Ecosystem เลย\n'
+          '\n'
+          'ก็คือใช้โครงข่ายบลูทูธของอุปกรณ์ Samaung Galaxy…'},
+ {'id': '1513961594161864705',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/BKa9Nhd6Aw https://t.co/BjtvT7Iom3'},
+ {'id': '1513961593352171527',
+  'source': 'Twitter for Android',
+  'text': '@miaumiauyoon seokjin: nayeon comprei uma coisa pra você vai chegar '
+          'aí daqui a pouco.\n'
+          '\n'
+          'e foi assim que ela.virou usuário samsung'},
+ {'id': '1513961591628259337',
+  'source': 'Circleboom Publish',
+  'text': 'Get a Samsung Galaxy A32 5G from Boost Mobile for just $100 '
+          'https://t.co/PrBvmIkJXm'},
+ {'id': '1513961589514588160',
+  'source': 'Twitter Web App',
+  'text': 'RT @rburhum: @RaulGuichard @4D2Wakos @Apple @Samsung Si sólo tienes '
+          '1, 2 o 3 esto funciona. El problema es cuando hay un portfolio. Si '
+          'pens…'},
+ {'id': '1513961509155753995',
+  'source': 'Twitter for Android',
+  'text': '@BrianSB2022 https://t.co/uwVDqHZXcJ and https://t.co/bunC06ww1y'},
+ {'id': '1513961478130393100',
+  'source': 'Twitter for Android',
+  'text': '@TheCoder_20 Samsung note 10 lite'},
+ {'id': '1513961472585617423',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961463211249667',
+  'source': 'Twitter for Android',
+  'text': 'RT @lanreeh: #FindOba \n'
+          '🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾RT\n'
+          'We’re yet to see him😢😢😢\n'
+          '\n'
+          'Spartacus Funke Akindele Ambode Buhari Samsung Ondo Nigeria Tinubu '
+          'ASUU #Toyos…'},
+ {'id': '1513961459562082309',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/Q4Nj2pVatI https://t.co/5b2YObhCTa'},
+ {'id': '1513961440771776517',
+  'source': 'NextScripts2_www.sesin.at',
+  'text': 'New post from https://t.co/9KYxtdZjkl (CVE-2022-26091 | Samsung '
+          'Knox Manage Hardware Key access control) has been published on '
+          'https://t.co/NAkQLGYMnO'},
+ {'id': '1513961439022747657',
+  'source': 'NextScripts_www.sesin.at',
+  'text': 'New post from https://t.co/uXvPWJy6tj (CVE-2022-25831 | Samsung S '
+          'Secure access control) has been published on '
+          'https://t.co/C2s2gDnqad'},
+ {'id': '1513961434144776198',
+  'source': 'NextScripts_www.sesin.at',
+  'text': 'New post from https://t.co/uXvPWJy6tj (CVE-2022-27836 | Samsung '
+          'StroageManager/StroageManagerService access control) has been '
+          'published on https://t.co/9sNidzIO1r'},
+ {'id': '1513961432559276038',
+  'source': 'NextScripts2_www.sesin.at',
+  'text': 'New post from https://t.co/9KYxtdZjkl (CVE-2022-25831 | Samsung S '
+          'Secure access control) has been published on '
+          'https://t.co/FqYog6hiy5'},
+ {'id': '1513961428608331779',
+  'source': 'Twitter for iPhone',
+  'text': 'probabilidade de voltar a fazer negócio com a marca. Outras marcas, '
+          'como a @cobasi e a @SamsungBrasil também fizeram parte do palco '
+          'principal. Para Samsung, bateu-se muito na tecla de como a marca '
+          'aposta em fazer coisas novas e melhorar a jornada do cliente.'},
+ {'id': '1513961415970902016',
+  'source': 'Twitter for Android',
+  'text': 'Samsung S22 😩.. Bonge La gadget'},
+ {'id': '1513961411076100097',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @NembuIa: that one heart break that made me move to my uncle me '
+          'farm for a month to do manual labour. \n'
+          'ngalusa iynkomo in the sun listen…'},
+ {'id': '1513961400254623744',
+  'source': 'Twitter for Android',
+  'text': 'Bangunin 4 teman buat Sahur, langsung dapat koin Shopee &amp; '
+          'kesempatan memenangkan HP Samsung Galaxy S22 dan Shopeepay! Hanya '
+          'sampai 1 Mei. https://t.co/gpSbJ2AGw6 https://t.co/3zM2PaxK7D'},
+ {'id': '1513961376967974915',
+  'source': 'Twitter Web App',
+  'text': '@ShopeeID - Bismillah 🧡 Samsung Galaxy S22 Is My Dreams 💚\n'
+          'REPLY #NCTDREAMdiShopee #MenujuBigRamadanSale #SHOPEExNCTZEN + '
+          '12189'},
+ {'id': '1513961370445770754',
+  'source': 'Twitter for iPhone',
+  'text': '@itsmeebitxhh no samsung'},
+ {'id': '1513961363491942401',
+  'source': 'Twitter for Android',
+  'text': 'RT @offer4review: #Amazon #coupon #offers #AmazonPrime #discount '
+          '#deal \n'
+          '👉SAMSUNG Galaxy S22 Smartphone, Factory Unlocked Android Cell '
+          'Phone…'},
+ {'id': '1513961355472257027',
+  'source': 'Twitter Web App',
+  'text': '@ShopeeID - Bismillah 🧡 Samsung Galaxy S22 Is My Dreams 💚\n'
+          'REPLY #NCTDREAMdiShopee #MenujuBigRamadanSale #SHOPEExNCTZEN + '
+          '12188'},
+ {'id': '1513961338854416390',
+  'source': 'WordPress.com',
+  'text': 'ProElite Smart Flip Cover | Best Case for Samsung Galaxy Tab S6 '
+          'Lite | INR 999 https://t.co/cHHSDAbRrn'}]

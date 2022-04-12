@@ -1,0 +1,720 @@
+[{'id': '1513963076416151560',
+  'source': 'Twitter Web App',
+  'text': 'RT @beastranpo: wow this is continuing to get lots of attention so '
+          'uh 😳😳 reminder that you can read up to ch 5 of blooming nexus on '
+          'ao3 her…'},
+ {'id': '1513963062168100870',
+  'source': 'Twitter Web App',
+  'text': "RT @beastranpo: IT'S HEREEEE!! I commissioned the one and only "
+          'amazing Rea @de4dkrush to draw a piece for Blooming Nexus, and it '
+          'came out s…'},
+ {'id': '1513963031734419456',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513963017679126528',
+  'source': 'Twitter Web App',
+  'text': '@allienfrens @nyckryptokid @mathneri_ @AndromedaGalaxx @sja281 '
+          '@spencer_blake10 @GURMANPANNU204 @PS5Drop @yo_superdope @Ayman_nfts '
+          '@nexus_coffee @foodtrumpsall1 @ON_10 @Cam75178672 @Jalen06883804 '
+          '@_skaankhunt42 @UnchainedNFT_ @Revollz @theshadyclass @BozkurtVdt '
+          '@braveenft'},
+ {'id': '1513963011895021568',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513963005255589888',
+  'source': 'Twitter for Android',
+  'text': 'RT @PhillyPolice: We are monitoring the situation in NYC. PPD is '
+          'working w/ @Septa and @amtrak Police to monitor subways and '
+          'transportation…'},
+ {'id': '1513963005154844672',
+  'source': 'Twitter Web App',
+  'text': 'RT @EcstaticCS: ⚡️ ROSTER CHANGE ⚡️\n'
+          '\n'
+          '🇺🇸 Our AWP-player @IWolfyCS has decided to take a small break from '
+          'competetive CS:GO, therefore he has…'},
+ {'id': '1513962997798080523',
+  'source': 'Twitter Web App',
+  'text': 'RT @fazzaco_fx: Nexus Fintrade, a Malaysian CFD broker, has '
+          'partnered with Match-Trade Technologies, a leading technology '
+          'provider for fore…'},
+ {'id': '1513962878281428999',
+  'source': 'Twitter Web App',
+  'text': '@KillerSwisher @GabeGoBig1 @Numba9 @been_on_one @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          'Yeah it is unless Cavs get blown otu somehow....Nets the worst '
+          "defense that's playing today....."},
+ {'id': '1513962802750242816',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"},
+ {'id': '1513962783880011777',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513962716536487944',
+  'source': 'Twitter Web App',
+  'text': 'quiero volver en el tiempo cuando nuestra unica preocupacion era '
+          'llamarnos nexus https://t.co/hRcEQgoHvb'},
+ {'id': '1513962656398561285',
+  'source': 'Twitter Web App',
+  'text': "@negative__nexus @SoulDrainer_ you're here you have to give me an "
+          'album to listen to now'},
+ {'id': '1513962602778570753',
+  'source': 'Twitter for Android',
+  'text': 'wow this is continuing to get lots of attention so uh 😳😳 reminder '
+          'that you can read up to ch 5 of blooming nexus on ao3 here!!\n'
+          'https://t.co/1QBpbda5kY\n'
+          'however, the patreon version comes with exclusive illustrations and '
+          'access to a lot of commissions posted only for patrons!'},
+ {'id': '1513962444493832197',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @DemiplaneRPG: Astonishing. Spectacular. Fantastic.\n'
+          '\n'
+          'On April 20th, an all-new NEXUS arrives on Demiplane - the @Marvel '
+          'Multiverse Role-…'},
+ {'id': '1513962255376912395',
+  'source': 'Twitter Web App',
+  'text': '@BlackcatsV Yes, you can find timetables for North Shields here: '
+          'https://t.co/SSze7PNsi6 ^RR'},
+ {'id': '1513962248779096065',
+  'source': 'Cheap Bots, Done Quick!',
+  'text': "(Tricky's Old Labcoat) - This coat belongs to the Nexus. Removing "
+          'it from the controlled property is a firable offense. All fired '
+          'employees will, of course, be terminated in every possible way.'},
+ {'id': '1513962201555611655',
+  'source': 'Twitter for Android',
+  'text': '@ShehuSani Are they not shameless,SE is a critical nexus to Peace '
+          'and justice in the country,is  ending marginalisation equivalent to '
+          'denying the people the right to aspire to the seat of power? It is '
+          'a collective since against the people and we are asking,are we not '
+          'Nigerians? Shehu you ca'},
+ {'id': '1513962147042181124',
+  'source': 'Exophase',
+  'text': 'ricomaru played SCARLET NEXUS (Xbox) in the last 24 hours '
+          'https://t.co/yrloyw7Ocr #exophase'},
+ {'id': '1513962087524970502',
+  'source': 'Twitter Web App',
+  'text': 'RT @masseffect_peom: The Special Edition is live on the Nexus!\n'
+          '\n'
+          'Thank you all once again for your support and patience. '
+          'https://t.co/WZ6MBK…'},
+ {'id': '1513961977005051905',
+  'source': 'Twitter Web App',
+  'text': 'RT @ErikaHarlacher: The bartending episode of my Genshin '
+          'playthrough it up on YouTube 🥰🎉🎉🎉 Thank you to @CrispVE for the '
+          'edit, @ArtfullyEly…'},
+ {'id': '1513961881161109506',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @SallyPezaro: Fully funded #PhD Studentship via @covcampus: '
+          'https://t.co/LPjvnoWYYk\n'
+          '\n'
+          'Bridge the teaching/research nexus in midwifery &amp; n…'},
+ {'id': '1513961816979763210',
+  'source': 'Twitter for Android',
+  'text': 'RT @hatenyan_pure: お好きなギフト券1万円分×3名＝3万円🎁\n'
+          'Beari プレゼント企画🎁※や氏さん提供\n'
+          '\n'
+          'Beari(Da Workers)×1名様\n'
+          '0.245ETH相当(約98,000円)\n'
+          '\n'
+          '【応募方法】\n'
+          '①この投稿をRT♻️\n'
+          'の後に引用RT♻️で当選確率…'},
+ {'id': '1513961742627266563',
+  'source': 'Twitter for Android',
+  'text': '@hoskytoken @Milkomeda_com @ethereum @KO @Kyawgyi23146577 '
+          '@airdroptrader12 @pak_nexus'},
+ {'id': '1513961686792818694',
+  'source': 'Twitter Web App',
+  'text': "RT @beastranpo: IT'S HEREEEE!! I commissioned the one and only "
+          'amazing Rea @de4dkrush to draw a piece for Blooming Nexus, and it '
+          'came out s…'},
+ {'id': '1513961685635125250',
+  'source': 'Twitter for iPhone',
+  'text': "It's crazy the people you can meet when you lead with kindness. Hey "
+          "Rick… Here's a great place to start. Enjoy your stay in San Diego! "
+          'TruBadger Nexus Ecosystem AMA https://t.co/vXF9G41zbt via @YouTube'},
+ {'id': '1513961517791817736',
+  'source': 'Twitter',
+  'text': 'RT @OpenLibertyIO: Did you know you can analyze #Java EE '
+          'applications directly from the application archive without needing '
+          'to dig through…'},
+ {'id': '1513961409033424902',
+  'source': 'Hootsuite Inc.',
+  'text': 'Did you know you can analyze #Java EE applications directly from '
+          'the application archive without needing to dig through the source? '
+          'Interested in learning how? Join @CTHigh at @devnexus this week to '
+          'find out more! #devnexus\n'
+          'Wednesday, April 13 @ 15:40\n'
+          'https://t.co/PVJt7df8wo https://t.co/6Ua3znsRwJ'},
+ {'id': '1513961390788259840',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @schmid_si: A small and nerdy thing that improves the general '
+          'experience with web3: Some tweaks were just released how to improve '
+          'indexi…'},
+ {'id': '1513961193773404160',
+  'source': 'Twitter Web App',
+  'text': 'https://t.co/arzj7D9LDp'},
+ {'id': '1513961171585576974',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @THEMADNA__JP: 🎧SETLIST🎧\n'
+          '\n'
+          '🗿2022年4月12日(火)  \n'
+          '\n'
+          '🎪渋谷REX\n'
+          '\n'
+          '『NEXUS-4-』\n'
+          '\n'
+          'https://t.co/nZHszLd5WU https://t.co/BTq3qOTmeB'},
+ {'id': '1513961086042714113',
+  'source': 'Twitter for Android',
+  'text': '@Numba9 @Kicksandtee @GabeGoBig1 @been_on_one @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          'Drummond big slow ass scares me tho I think he can get played off '
+          'the court Claxton is the better choice match-up wise'},
+ {'id': '1513961052047880192',
+  'source': 'Twitter Web App',
+  'text': 'Mass Effect 2 - Part 60: It Had To Be Husks [Unspoiled]\n'
+          '\n'
+          'Exploring the Minos Wasteland, Hades Nexus, and Valhallan '
+          'Threshold. Anomalies on Aequitas and Gei Hinnom.\n'
+          '\n'
+          'https://t.co/x9OXmaWGuk'},
+ {'id': '1513961049476976640',
+  'source': 'Twitter for Android',
+  'text': 'RT @samavritti: I really admire that @RahulGandhi always does the '
+          'right thing and stands alone in this fight against the fascist '
+          'nexus. Tha…'},
+ {'id': '1513960892391727108',
+  'source': 'Twitter Web App',
+  'text': '@fergalreid @DubCityCouncil Without a doubt! It would transform '
+          'both accessibility and development patterns in the western quarter '
+          'of the city. And conveniently annihilate the Christ Church '
+          'Scalextric nexus.'},
+ {'id': '1513960885215133697',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @konipu_nft: Updated NFT ranking🌟\n'
+          '(as of 12am JST on Apr 13)\n'
+          '\n'
+          'Top 3 by Trading volume out of Japanese NFT projects.\n'
+          '\n'
+          '🥇Murakami .Flowers…'},
+ {'id': '1513960839690260482',
+  'source': 'Twitter for Android',
+  'text': '@Numba9 @Kicksandtee @GabeGoBig1 @been_on_one @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          "And he has playoff experiences and is a champion 🏆 🥇  he's getting "
+          'extended'},
+ {'id': '1513960820589600768',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513960816340611073',
+  'source': 'Twitter for Android',
+  'text': '@Starlet_Nexus @Mandercloud1 Bat squirrel is cyoot as fek'},
+ {'id': '1513960728361070592',
+  'source': 'Twitter for iPhone',
+  'text': '@nexus_dron_m 反500円と試算して叩かれた職員さんいたなあ'},
+ {'id': '1513960707661905920',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513960624245592075',
+  'source': 'Twitter for Android',
+  'text': '#Nexus $NXS #Bitcoin $BTC https://t.co/2ADeKAJSHb'},
+ {'id': '1513960540179116033',
+  'source': 'Microsoft Azure Logic Apps',
+  'text': 'RT @CyberIQs_: DPRK&amp;Nexus Adversary Targets South Korean '
+          'Individuals in a New #infosec #infosecurity #cybersecurity '
+          '#threatintel #threatint…'},
+ {'id': '1513960526434521089',
+  'source': 'CyberIQS_App',
+  'text': 'DPRK&amp;Nexus Adversary Targets South Korean Individuals in a New '
+          '#infosec #infosecurity #cybersecurity #threatintel '
+          '#threatintelligence #hacking #cybernews #cyberattack '
+          '#threathunting \n'
+          '#cloudsecurity #cloudcomputing #malware #ransomware #devops #dfir '
+          'https://t.co/Hu1tkKH4cQ'},
+ {'id': '1513960475704274946',
+  'source': 'Twitter for Android',
+  'text': 'RT @KhawajaFarooqA2: Let it be clear to everyone that the no '
+          'confidence resolution in AJK Assembly has been submitted on the '
+          'advice of and…'},
+ {'id': '1513960439595831296',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"},
+ {'id': '1513960437565505538',
+  'source': 'Twitter Web App',
+  'text': '@schmid_si @Amxx @wighawag @sammybauch @Xenoliss @thebensams '
+          '@data_nexus @itsjerryokolo https://t.co/zTFGEEuYms'},
+ {'id': '1513960349376069639',
+  'source': 'Twitter Web App',
+  'text': 'RT @schmid_si: A small and nerdy thing that improves the general '
+          'experience with web3: Some tweaks were just released how to improve '
+          'indexi…'},
+ {'id': '1513960311342219271',
+  'source': 'Twitter for Android',
+  'text': 'RT @CMShehbaz: I also cannot forget Salman Rafique, Kamran Michael, '
+          'Miftah Ismael &amp; Qamarul Islam whose steadfastness &amp; '
+          'sacrifices in the f…'},
+ {'id': '1513960259458461696',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"},
+ {'id': '1513960236549574658',
+  'source': 'Twitter for Android',
+  'text': 'RT @hatenyan_pure: お好きなギフト券1万円分×3名＝3万円🎁\n'
+          'Beari プレゼント企画🎁※や氏さん提供\n'
+          '\n'
+          'Beari(Da Workers)×1名様\n'
+          '0.245ETH相当(約98,000円)\n'
+          '\n'
+          '【応募方法】\n'
+          '①この投稿をRT♻️\n'
+          'の後に引用RT♻️で当選確率…'},
+ {'id': '1513960121038262273',
+  'source': 'Twitter Web App',
+  'text': "Well, I'm curious\n"
+          'New NEXUS: Marvel Multiverse Role Playing Game: '
+          'https://t.co/NXq72CJ4Kc'},
+ {'id': '1513959986325602307',
+  'source': 'Twitter for Android',
+  'text': 'RT @DresdenNexus: ‼️3 days left to register for '
+          '#DresdenNexusConference 2022 at early bird rates! 20 thematic '
+          'sessions will address a wide…'},
+ {'id': '1513959935947997184',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @Royhankha: All Alt Market Big Dump \n'
+          '\n'
+          'But NXD still Save Zone\n'
+          '\n'
+          'Its called NXD holding Power \n'
+          '\n'
+          'Buy more NXD Now\n'
+          '\n'
+          'See you soon 👀👀👀\n'
+          '\n'
+          '@Nexus…'},
+ {'id': '1513959833384337408',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @OverwatchNaeri: Overwatch https://t.co/79G7JkXWka Official '
+          'Announcer (Starcraft 2 and Nexus)\n'
+          '\n'
+          'If a hero announcer is added to the hero…'},
+ {'id': '1513959754397360138',
+  'source': 'Twitter Web App',
+  'text': '@KillerSwisher @Kicksandtee @GabeGoBig1 @been_on_one @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          "he didn't dominate the nets this year but this is the playoffs he "
+          'can go off'},
+ {'id': '1513959746222624770',
+  'source': 'Twitter Web App',
+  'text': '@JackLongarzo @NexusMutual When cover is purchased, Rari would earn '
+          'a commission on the frontend integration, as well as management '
+          'fees for managing delegated NXM within the syndicate.\n'
+          '\n'
+          'We have resources about Nexus V2 + syndicates in this issue of our '
+          'newsletter: https://t.co/Hjouu8a2l2\n'
+          '👇'},
+ {'id': '1513959663959789578',
+  'source': 'Twitter for Android',
+  'text': 'RT @LEC: "I\'ll package into the Nexus!" - @G2Caps\n'
+          '"Okay maybe don\'t do that..." - @G2Jankos\n'
+          '\n'
+          'Check out the @Kia_Worldwide Mic Check from th…'},
+ {'id': '1513959474070908928',
+  'source': 'Twitter for Android',
+  'text': 'RT @hatenyan_pure: お好きなギフト券1万円分×3名＝3万円🎁\n'
+          'Beari プレゼント企画🎁※や氏さん提供\n'
+          '\n'
+          'Beari(Da Workers)×1名様\n'
+          '0.245ETH相当(約98,000円)\n'
+          '\n'
+          '【応募方法】\n'
+          '①この投稿をRT♻️\n'
+          'の後に引用RT♻️で当選確率…'},
+ {'id': '1513959348564901895',
+  'source': 'Twitter Web App',
+  'text': '@SInow This is awful. Did you really try to use  Kyrie as a nexus '
+          'for why teams rest stars? Who signed off on this?'},
+ {'id': '1513959258693459968',
+  'source': 'Twitter for Android',
+  'text': '@Kicksandtee @GabeGoBig1 @Numba9 @been_on_one @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          'Kevin love will definitely make or break this slate if he gets 30 '
+          "minutes and you fade game over I think he's the scariest fade of "
+          'the slate'},
+ {'id': '1513959006460694533',
+  'source': 'Twitter for Android',
+  'text': '@HamidMirPAK @ImranKhanPTI And for indian support yes you are right '
+          'indian manage some anti state hashtags with the help of pakistani '
+          'political parties media cells of PMLN, PTM and TLP. And the nexus '
+          'of indian support on social media has been proved by PTI government '
+          '1 year ago. We know @OfficialDGISPR'},
+ {'id': '1513958994456551427',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513958700071161861',
+  'source': 'Twitter',
+  'text': 'RT @hatenyan_pure: お好きなギフト券1万円分×3名＝3万円🎁\n'
+          'Beari プレゼント企画🎁※や氏さん提供\n'
+          '\n'
+          'Beari(Da Workers)×1名様\n'
+          '0.245ETH相当(約98,000円)\n'
+          '\n'
+          '【応募方法】\n'
+          '①この投稿をRT♻️\n'
+          'の後に引用RT♻️で当選確率…'},
+ {'id': '1513958665044340743',
+  'source': 'Twitter Web App',
+  'text': '@HeirofAbba @BirdieBurdman @tonydimatteo They have aspirations of '
+          'being a "one stop shop" for all things gaming, but right now it\'s '
+          'a pipe dream.  They have a thing in the works called Project Nexus, '
+          'which could lead to a blockchain global lottery type deal which '
+          'could be huge if actually executed.'},
+ {'id': '1513958633683701760',
+  'source': 'Twitter for Android',
+  'text': 'RT @gotbit_io: 🚨#AIRDROP🚨\n'
+          'Give away NXD tokens (~$50) every day \n'
+          '\n'
+          'Rules: \n'
+          '1️⃣Follow to @Nexus_Dubai, @gotbit_io, @AndryuninAlexey\n'
+          '2️⃣ Comme…'},
+ {'id': '1513958602414845955',
+  'source': 'Twitter for Android',
+  'text': 'RT @masseffect_peom: The Special Edition is live on the Nexus!\n'
+          '\n'
+          'Thank you all once again for your support and patience. '
+          'https://t.co/WZ6MBK…'},
+ {'id': '1513958600871342080',
+  'source': 'uhiiman_bot',
+  'text': '#うひーメモ\n'
+          '投稿時間:2022-04-13 04:13:52\n'
+          'Hybrid cloud networks are calling – Cisco Nexus Dashboard has the '
+          'answer\n'
+          'https://t.co/L0nmEe7ZIt\n'
+          '#Cisco'},
+ {'id': '1513958435615772673',
+  'source': 'Twitter for iPhone',
+  'text': '@Nexus_Dubai If I could live in Dubai someday, I would take '
+          "advantage of this ☺️✨✨✨It's a distant dream...\n"
+          '\n'
+          '#NexusDubai #Tjay #NexFi #Staking #Daworkers #Beari \n'
+          '$NXD #MEXCGlobal \n'
+          '＃仮想通貨'},
+ {'id': '1513958099228540941',
+  'source': 'Twitter for iPhone',
+  'text': 'https://t.co/9xRItB5NSR'},
+ {'id': '1513957945389854727',
+  'source': 'Twitter Web App',
+  'text': "RT @OpenLibertyIO: If you're attending @devnexus next week, don't "
+          'miss the amazing sessions available from our fantastic #OpenLiberty '
+          'devel…'},
+ {'id': '1513957905367814150',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @OverwatchNaeri: Overwatch https://t.co/79G7JkXWka Official '
+          'Announcer (Starcraft 2 and Nexus)\n'
+          '\n'
+          'If a hero announcer is added to the hero…'},
+ {'id': '1513957752367894538',
+  'source': 'Twitter Web App',
+  'text': 'The Closing Time - Sesame Street theme song - It’s A Hard Knock '
+          'Life melodic nexus'},
+ {'id': '1513957748366786560',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"},
+ {'id': '1513957674417012737',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @yukihisaito: DMMにて、イメージプロモーション配信💻＆DVD制作販売📀\n'
+          '\n'
+          '監修：伊藤幸久\n'
+          '撮影監督：渡邊智史\n'
+          'スチールカメラマン：小峯維斗\n'
+          'ヘアメイク：工藤裕未\n'
+          '\n'
+          '制作・著作：渡邊映像制作(NEXUS)\n'
+          '制作協力：SHINING株式会社\n'
+          'https://t…'},
+ {'id': '1513957645274734604',
+  'source': 'Twitter for iPhone',
+  'text': 'DMMにて、イメージプロモーション配信💻＆DVD制作販売📀\n'
+          '\n'
+          '監修：伊藤幸久\n'
+          '撮影監督：渡邊智史\n'
+          'スチールカメラマン：小峯維斗\n'
+          'ヘアメイク：工藤裕未\n'
+          '\n'
+          '制作・著作：渡邊映像制作(NEXUS)\n'
+          '制作協力：SHINING株式会社\n'
+          'https://t.co/w86vwYAuaM\n'
+          '\n'
+          '#イメージプロモーション\u3000#DVD #NEXUS #SHINING株式会社 #DMM '
+          'https://t.co/CfKWUgFtf2'},
+ {'id': '1513957420912971777',
+  'source': 'Twitter for iPhone',
+  'text': '@Nexus_Dubai As a supporter, I will do my best to spread the word '
+          'so that many people will search for it👍👍👍\n'
+          '\n'
+          '#NexusDubai #Tjay #NexFi #Staking #Daworkers #Beari \n'
+          '$NXD #MEXCGlobal \n'
+          '＃仮想通貨'},
+ {'id': '1513957293527908355',
+  'source': 'Twitter for Android',
+  'text': 'RT @Push_gfx: ‘NEXUS’ 🌺\n'
+          'Day 28 • Year 2 \n'
+          '.\n'
+          '“Each individual in a society is a nexus where innumerable '
+          'relationships of this character inter…'},
+ {'id': '1513957231166898183',
+  'source': 'Twitter for Android',
+  'text': '@MEXC_Global @Nexus_Dubai The first anime project .... Ninja '
+          'Revolution in 2022, buy Kishimoto cheap before it gets '
+          'expensive🥷🥷🥷🥷🥷🥷\n'
+          'We have utilities for days🥷\n'
+          '#VPN\n'
+          '#3DNFTmarketplace\n'
+          '#kishiswapV2 \n'
+          '#paly\u200c to earn games\n'
+          '@kishimotoinu @DSinky94  @CheeKishimoto @TheDukeski #kishimoto is '
+          'the moto🥷🥷 https://t.co/NeLTTjnEYI'},
+ {'id': '1513957126493851656',
+  'source': 'Twitter Web App',
+  'text': '@Kicksandtee @been_on_one @KillerSwisher @LSU32FSU30 @TheSchnabs '
+          '@timmykov @__Thirst22 @MattFinessin_ @Yopozone @RoryOCo72058168 '
+          '@GabeGoBig1 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          'lol I like garland the most he average 45fp against the nets and '
+          "this a high stakes game I believe he'll have a dame Lilliard like "
+          'come out party . and im like u I hate playing Cavs even Evan mobley '
+          'ass lol'},
+ {'id': '1513957104037597185',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @schmid_si: A small and nerdy thing that improves the general '
+          'experience with web3: Some tweaks were just released how to improve '
+          'indexi…'},
+ {'id': '1513957099730051078',
+  'source': 'Twitter for Android',
+  'text': 'RT @KhawajaFarooqA2: Let it be clear to everyone that the no '
+          'confidence resolution in AJK Assembly has been submitted on the '
+          'advice of and…'},
+ {'id': '1513956947350990848',
+  'source': 'Twitter Web App',
+  'text': '@ytok1030 @CTwerdahl @SmithCyanide @joshuatlepore @RealToufik '
+          '@mickeyg54 @KriptonianKing @deboraza @mrbbyang @bexography @SumiAli '
+          '@TejasvBhargava1 @925_Jeweler @msmk_zk @Token_Nexus '
+          '@Mohamma17583661 @zz_sophie'},
+ {'id': '1513956892657213445',
+  'source': 'Twitter Web App',
+  'text': '@sarahmusgravee Yes, here is a link to the timetable changes. FC^: '
+          'https://t.co/X4ZYRDC6Yl'},
+ {'id': '1513956888429355013',
+  'source': 'Twitter for iPhone',
+  'text': '@minecraft_sicko cant lie tik tok is the nexus of unbeatable wheel '
+          'knowledge'},
+ {'id': '1513956771303510026',
+  'source': 'Twitter for Android',
+  'text': '@schmid_si @Amxx @wighawag @sammybauch @Xenoliss @thebensams '
+          '@data_nexus @ktfou @itsjerryokolo Perform your trades with the '
+          'assurance of the WOC network. Steer clear of unreliable trading '
+          'models @WOChain #BSC'},
+ {'id': '1513956688260382724',
+  'source': 'Twitter for Android',
+  'text': 'RT @UNU_FLORES: 📢 The programme for #DresdenNexusConference 2022 is '
+          'now online!\n'
+          '\n'
+          'Keynote speeches by renowned experts &amp; around 20 sessions…'},
+ {'id': '1513956667377225728',
+  'source': 'Twitter for Android',
+  'text': 'RT @KhawajaFarooqA2: Let it be clear to everyone that the no '
+          'confidence resolution in AJK Assembly has been submitted on the '
+          'advice of and…'},
+ {'id': '1513956663279165456',
+  'source': 'Twitter for iPhone',
+  'text': 'RT @NXSGamingBS: Nexus Gaming $400 3v3 Tourney Powered by '
+          '@matcherino_ \n'
+          'When: Saturday April 23rd at 8 pm EST\n'
+          'Who: NA and LATAM N\n'
+          'Prizes: $…'},
+ {'id': '1513956655284764678',
+  'source': 'Twitter Web App',
+  'text': 'RT @nexuscryptosvc: With everyone watching what #BTC will do '
+          'next...\n'
+          'Why not use #Nexus Charts?\n'
+          '\n'
+          '🚀Blazing fast\n'
+          '📈Customizable to your liking…'},
+ {'id': '1513956632304263168',
+  'source': 'Twitter Web App',
+  'text': '#NEXTSPRING22 Platinum #Sponsor @simplenexus announced that '
+          '@pinnbank has implemented Nexus Vision™ to support #optimization of '
+          'the bank’s #mortgage #operations with turnkey #business '
+          'intelligence. https://t.co/gBuDjtJrWy\n'
+          '\n'
+          '#fintech #financetech #financetechnology #banks'},
+ {'id': '1513956624897093645',
+  'source': 'Twitter for Android',
+  'text': 'RT @OverwatchNaeri: Overwatch https://t.co/79G7JkXWka Official '
+          'Announcer (Starcraft 2 and Nexus)\n'
+          '\n'
+          'If a hero announcer is added to the hero…'},
+ {'id': '1513956592210771970',
+  'source': 'Twitter Web App',
+  'text': '@GabeGoBig1 @Numba9 @been_on_one @KillerSwisher @LSU32FSU30 '
+          '@TheSchnabs @timmykov @__Thirst22 @MattFinessin_ @Yopozone '
+          '@RoryOCo72058168 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          'Are you in the Prizepicks Discord?\n'
+          " Usually some good stuff in there especially in MLB because I don't "
+          'know shit about it lol'},
+ {'id': '1513956514607898628',
+  'source': 'Twitter Web App',
+  'text': '@polakoff @Oneof1Cards @Shecky60 @CardPurchaser Except in all '
+          "likelihood you'd never have to file in 46 states, unless you met "
+          'the thresholds or had nexus.\n'
+          '\n'
+          "eBay collects tax because they're legally obligated to, not as "
+          'favor to sellers &amp; applying full FVF to it puts them well above '
+          'industry standard.\n'
+          '\n'
+          'https://t.co/FJJH9RNNqn'},
+ {'id': '1513956501547028480',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"},
+ {'id': '1513956477001768967',
+  'source': 'Twitter Web App',
+  'text': '@Numba9 @been_on_one @KillerSwisher @LSU32FSU30 @TheSchnabs '
+          '@timmykov @__Thirst22 @MattFinessin_ @Yopozone @RoryOCo72058168 '
+          '@GabeGoBig1 @Athena042386 @alifewithmalik @KingCoreo @RgolfM '
+          '@m6chaell @TheFD_Prophet @ThePatNasty @Torylangley1992 @jeffcamara '
+          '@e_zahp @ScottyHansPP @DFS_Xcell_Nexus @365bando @Betsportbook '
+          '@DoloDarnell @SKOLVikingz33 @lil_Jaimeee @csh_lyons '
+          '@_supermoonvibes @WagoGapo @alwaysreal2384 @AlfredShamaon '
+          '@Patrick120879 @todayistommorr1 @joshs_21 @cinderlegend '
+          '@scartonradio @fransanity76 @habart88 @MrOverUnder @EchsYT '
+          '@Shanndogg12 @Hope4Once @DK__DFS @HadoukenSZN @Matthewp07 @koontz91 '
+          "Damn I don't know man....one of them is gonna go off I hate playing "
+          'Cavs lol.....Markannen might go off or Levert or Love or hell '
+          'Garland could give you 60 tonight lol'},
+ {'id': '1513956398723477504',
+  'source': 'Twitter for Android',
+  'text': 'RT @FemnetProg: “Now is the time to allocate resources, amplify '
+          "women's voices and popularize the nexus for a just recovery that "
+          'shifts pow…'},
+ {'id': '1513956331899785219',
+  'source': 'Twitter for Android',
+  'text': 'RT @ExploreNexus: Nexus has infinite worlds to be discovered💫 '
+          'https://t.co/aNbx418dGP'},
+ {'id': '1513956163229872129',
+  'source': 'dlvr.it',
+  'text': 'Hybrid cloud networks are calling – Cisco Nexus Dashboard has the '
+          'answer https://t.co/WwDkKXp2mK https://t.co/oR27YqzcS5'},
+ {'id': '1513956148746936323',
+  'source': 'Twitter for Android',
+  'text': 'RT @JohnyJuneja: Tauba Tauba 🙊🙈\n'
+          '\n'
+          "Previous Govt's were transferring Old age pensions to people who "
+          'already died.\n'
+          '\n'
+          "It's a Big Nexus exposed a…"}]
