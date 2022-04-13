@@ -2,7 +2,7 @@ import os
 import pathlib
 import sys
 
-#  calculate precision & recall per category from naivebayes.output.sortedTweets file
+#  calculate precision, recall & f-measure per category from naivebayes.output.sortedTweets file
 
 # P(c) = sys correct(c) / identified(c)
 # R(c) = sys correct(c) / actual(c)
@@ -28,8 +28,7 @@ with open(filePath, 'r') as  f:
 
     for line in data:
         temp = line.split()
-        print(temp)
-
+        # print(temp)
         if "android" in temp[0]:
             aActual += 1
             if "android" in temp[1]:
@@ -46,13 +45,16 @@ with open(filePath, 'r') as  f:
             else:
                 aIdentified += 1
         else:
-            print("invalid line")
+            print("skip")
 
+original_stdout = sys.stdout
+output = open(outFile, 'a')
+sys.stdout = output
 
 # P(c) = sys correct(c) / identified(c)
 # R(c) = sys correct(c) / actual(c)
 
-print(aCorrect, ", ", iCorrect, ", ", aIdentified, ", ", iIdentified, ", ", aActual, ", ", iAcutal)
+# print(aCorrect, ", ", iCorrect, ", ", aIdentified, ", ", iIdentified, ", ", aActual, ", ", iAcutal)
 
 androidRecall = aCorrect / aIdentified
 androidPrec = aCorrect / aActual
@@ -64,3 +66,14 @@ print("android recall: ", androidRecall)
 print("android precision: ", androidPrec)
 print("iphone recall: ", iphoneRecall)
 print("iphone precision: ", iphonePrec)
+
+# F-measure = 2/(1/recall)+(1/precision)
+
+androidF = 2/((1/androidRecall)+(1/androidPrec))
+iphoneF = 2/((1/iphoneRecall)+(1/iphonePrec))
+
+print("android F-measure: ", androidF)
+print("iphone F-measure: ", iphoneF)
+
+output.close()
+sys.stdout = original_stdout

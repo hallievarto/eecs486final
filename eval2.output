@@ -1,0 +1,6 @@
+android recall:  0.6842105263157895
+android precision:  0.21311475409836064
+iphone recall:  0.4725274725274725
+iphone precision:  0.8775510204081632
+android F-measure:  0.32499999999999996
+iphone F-measure:  0.6142857142857142
