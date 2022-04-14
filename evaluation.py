@@ -1,7 +1,4 @@
 import tweepy as tw
-import pandas as pd
-import requests
-import json
 import pprint
 
 api_key = "BD099NIvp7AP4lW7LevyF7Qe2"
