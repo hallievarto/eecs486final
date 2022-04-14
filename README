@@ -4,11 +4,21 @@ By: Sarah Schaffel, Hallie Varto, Sam Oleari, Casey Debaise and Leo Yan
 In this project we crawled twitter using different key words to gather tweets. 
 We wanted to determine if there were indicators of what phone you use (iPhone
 or Android) based on the words in the tweets. We used naive bayes to determine
-if we were able to correctly identify which tweets were made by which device. 
+if we were able to correctly identify which tweets were made by which device.
+We used another program to determine precision and recall to better evaulate 
+our system.  
 
 The tweets folder contains all the tweets we got from the query with the key word 
 that is the title of each document.
 The sorted tweets folder are singular tweets in each file where the source was specified 
 as android or iphone, and they are labeled as such.
 
-To run, pip install tweepy
+To run evaluation.py
+pip install tweepy
+python3 ./evaluation.py
+
+To run naiveBayes.py
+python3 ./naiveBayes.py
+
+to run eval2.py
+python3 ./eval2.py
